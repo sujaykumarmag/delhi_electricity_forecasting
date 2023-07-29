@@ -1,0 +1,101 @@
+Reportforpreviousday DateofReporting: 23-Apr-2021
+A.PowerSupplyPositionatAllIndiaandRegionallevel
+NR WR SR ER NER TOTAL
+DemandMetduringEveningPeakhrs(MW)(at20:00hrs;fromRLDCs) 46093 52308 43359 22271 2661 166692
+PeakShortage(MW) 630 0 0 0 9 639
+EnergyMet(MU) 939 1318 1070 451 46 3823
+HydroGen(MU) 130 42 73 40 8 293
+WindGen(MU) 23 57 56 - - 136
+SolarGen(MU)* 53.43 40.14 95.99 4.95 0.21 195
+EnergyShortage(MU) 6.41 0.00 0.00 0.00 1.57 7.98
+Maximum DemandMetDuringtheDay(MW)(FromNLDCSCADA) 47292 58715 48983 22685 2902 166769
+TimeOfMaximum DemandMet(FromNLDCSCADA) 19:42 15:15 11:56 20:35 18:46 19:39
+B.Frequency Profile(%)
+Region FVI <49.7 49.7-49.8 49.8-49.9 <49.9 49.9-50.05 >50.05
+AllIndia 0.040 0.00 0.10 7.68 7.79 71.28 20.94
+C.PowerSupplyPositioninStates
+Max.Demand ShortageduringEnergyMetDrawal OD(+)/UD(-) MaxODEnergy
+Region States Metduringthe
+day(MW)maximum
+Demand(MW) (MU)Schedule
+(MU) (MU) (MW)Shortage
+(MU)
+Punjab 5588 0 118.4 63.1 -1.9 94 0.00
+Haryana 6951 0 132.5 97.8 -0.2 179 0.00
+Rajasthan 10151 0 210.5 55.0 -2.2 518 0.00
+Delhi 2986 0 64.5 50.0 -1.8 45 0.00
+NR UP 17500 520 297.9 94.0 -1.0 1058 0.00
+Uttarakhand 1708 0 34.5 19.7 -1.5 129 0.00
+HP 1381 0 26.5 13.7 -1.0 49 0.01
+J&K(UT) &Ladakh(UT) 2439 350 51.3 39.1 0.6 302 6.40
+Chandigarh 168 0 3.3 3.8 -0.5 0 0.00
+Chhattisgarh 4351 0 103.3 38.2 -0.3 155 0.00
+Gujarat 18194 0 392.2 109.4 -1.1 587 0.00
+MP 10127 0 227.2 129.3 -1.7 693 0.00
+WR Maharashtra 24043 0 541.2 187.7 -4.4 623 0.00
+Goa 551 0 11.2 12.0 -1.3 37 0.00
+DD 314 0 7.1 7.2 -0.1 14 0.00
+DNH 777 0 18.1 18.1 0.0 34 0.00
+AMNSIL 764 0 17.2 2.4 0.3 236 0.00
+AndhraPradesh 10027 0 205.0 99.7 0.5 487 0.00
+Telangana 9554 0 193.0 86.5 -1.0 446 0.00
+SRKarnataka 11655 0 227.0 64.5 -0.1 625 0.00
+Kerala 3848 0 80.8 57.1 0.5 208 0.00
+TamilNadu 15827 0 354.4 244.8 0.4 846 0.00
+Puducherry 449 0 9.5 9.6 -0.1 30 0.00
+Bihar 5145 0 95.9 88.3 -0.3 396 0.00
+DVC 3136 0 69.0 -52.3 -0.1 568 0.00
+Jharkhand 1577 0 26.2 21.2 -3.2 150 0.00
+ER Odisha 5407 0 108.3 50.9 -1.5 373 0.00
+WestBengal 7978 0 150.7 29.2 -1.7 250 0.00
+Sikkim 64 0 0.9 1.6 -0.7 0 0.00
+Arunachal Pradesh 138 3 2.0 2.0 -0.0 103 0.01
+Assam 1612 3 27.0 24.2 0.9 211 1.50
+Manipur 193 2 2.5 2.6 -0.1 19 0.01
+NER Meghalaya 335 0 5.7 2.9 0.2 207 0.00
+Mizoram 107 3 1.5 1.4 0.1 28 0.01
+Nagaland 131 7 2.1 1.7 0.4 41 0.01
+Tripura 287 2 4.8 4.4 0.9 97 0.03 
+National Load Despatch Centre  
+राष्ट्रीय भार प्रेषण  क ें द्र 
+POWER SYSTEM OPERATION CORPORATION LIMITED  
+पॉवर  सिस्टम  ऑपरेशन  कारपोरेशन  सिसमटेड  
+ (Government of India Enterprise / भारत  िरकार  का उद्यम ) 
+B-9, QUTUB INSTITUTIONAL AREA, KATWARIA SARAI,  NEW DELHI -110016  
+बी-9, क़ुतुब इन्स्टीट्यूशनि  एररया , कटवाररया  िराये , न्यू सिल्ली -110016  
+_____________________________________________________________________________________________________  
+ 
+Ref: POSOCO/NLDC/SO/Daily PSP  Report                     दिन ांक : 23rd Apr 2021 
+ 
+To, 
+ 
+ 
+1. क र्यक री  दनिेशक , पू .क्षे .भ  .प्रे .के ., 14, गोल्फ  क्लब  रोड , कोलक त  - 700033  
+Executive Director , ERLDC, 14 Golf Club Road, Toll ygunge, Kolkata, 700033  
+2. क र्यक री  दनिेशक , ऊ. क्षे. भ . प्रे. के., 18/ ए , शहीि  जीत द ांह  न नव ल  म गय, नई दिल्ली  – 110016  
+Executive Director , NRLDC, 18 -A, Shaheed Jeet Singh Marg, Katwaria Sarai, New Delhi – 110016  
+3. क र्यक री  दनिेशक , प .क्षे .भ  .प्रे .के ., एफ -3, एम आई डी  ी क्षेत्र , अांधेरी , म ांबई  –  400093  
+Executive Director , WRLDC, F -3, M.I.D.C. Area, Marol, Andheri  (East), Mumbai -400093  
+4. क र्यक री  दनिेशक , ऊ. पू. क्षे. भ . प्रे. के., डोांगदतएह , लोअर  नोांग्रह  , ल पलांग , दशलोांग  – 793006  
+Executive Director , NERLDC, Dongteih, Lower Nongrah, Lapalang, Shillong - 793006, Meghalaya  
+5. क र्यक री  दनिेशक  , ि .क्षे .भ  .प्रे .के ., 29, रे  को य  क्रॉ  रोड, बांगल रु  –  560009  
+Executive Director , SRLDC, 29, Race Course Cross Road,  Bangalore -560009  
+ 
+Sub: Daily PSP  Report  for the date 22.04.2021. 
+ 
+महोिर् /Dear Sir,  
+ 
+आई०ई०जी० ी०-2010 की ध र   .-5.5.1 के प्र वध न  के अन   र , दिन ांक  22-अप्रैल -2021 की अखिल  भ रतीर्  प्रण ली  की 
+िैदनक  दग्रड दनष्प िन  ररपोर्य  र ०भ ०प्रे०के० की वेब  इर्  पर उप्लब्ध  है |  
+ 
+As per article 5.5.1 of the Indian Electricity Grid Code, the daily report pertaini ng power supply position of All  
+India Power System for the date 22nd April  2021 , is available at the NLDC website .  
+ 
+ 
+ 
+ 
+ 
+ 
+धन्यव ि , 
+ 
+ 

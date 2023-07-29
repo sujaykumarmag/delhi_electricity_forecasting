@@ -1,0 +1,154 @@
+NR WR SR ER NER TOTAL
+47228 58385 47556 22086 2713 177968
+188 0 0 235 0 423
+963 1342 1201 459 46 4012
+115 25 73 31 16 260
+15 68 31 - - 113
+123.03 60.86 132.14 6.75 0.74 324
+1.27 0.00 0.00 2.63 0.00 3.90
+48893 62167 58038 22451 2747 188338
+19:17 10:55 11:59 18:35 18:35 10:55
+Region FVI < 49.7 49.7 - 49.8 49.8 - 49.9 < 49.9 49.9 - 50.05 > 50.05
+All India 0.067 0.14 1.34 11.98 13.46 66.39 20.15
+Max.Demand Shortage during Energy Met Drawal OD(+)/UD(-) Max OD Energy
+Region States Met during the 
+day(MW)maximum 
+Demand(MW)(MU)Schedule
+(MU)(MU) (MW)Shortage 
+(MU)
+Punjab 6153 0 128.1 38.7 -0.3 148 0.23
+Haryana 6146 0 122.1 83.3 -0.1 285 0.00
+Rajasthan 11336 0 213.5 62.1 -3.6 114 0.00
+Delhi 3631 0 69.5 69.1 -1.2 193 0.00
+NR UP 16210 38 293.5 72.7 0.1 628 1.00
+Uttarakhand 2081 0 39.1 30.2 0.2 134 0.04
+HP 1883 0 33.1 24.0 0.5 149 0.00
+J&K(UT) & Ladakh(UT) 2779 0 57.7 47.9 0.4 199 0.00
+Chandigarh 180 0 3.2 3.4 -0.2 11 0.00
+Railways_NR ISTS 151 0 3.2 0.0 3.2 151 0.00
+Chhattisgarh 4806 0 106.6 54.6 0.2 411 0.00
+Gujarat 18058 0 388.9 210.8 -2.0 631 0.00
+MP 10914 0 216.9 106.7 -2.3 227 0.00
+WR Maharashtra 26924 0 553.8 180.8 -0.7 667 0.00
+Goa 685 0 14.6 13.9 0.4 32 0.00
+DNHDDPDCL 1272 0 29.5 29.7 -0.2 76 0.00
+AMNSIL 867 0 19.3 10.9 0.0 270 0.00
+BALCO 518 0 12.3 12.4 -0.1 4 0.00
+Andhra Pradesh 9633 0 199.6 74.5 -0.3 432 0.00
+Telangana 13465 0 264.9 137.3 0.8 618 0.00
+SR Karnataka 14979 0 281.0 119.0 -0.2 1115 0.00
+Kerala 4434 0 90.8 72.0 -0.3 223 0.00
+Tamil Nadu 16599 0 355.4 214.9 -2.1 506 0.00
+Puducherry 437 0 9.6 9.3 -0.5 31 0.00
+Bihar 4942 0 87.3 76.1 -1.4 200 0.55
+DVC 3569 0 74.9 -44.0 0.4 264 0.00
+Jharkhand 1389 0 27.6 21.3 -1.9 109 2.08
+ER Odisha 5329 0 110.9 33.1 -0.8 370 0.00
+West Bengal 7666 0 157.0 23.7 -3.3 80 0.00
+Sikkim 113 0 1.7 1.6 0.2 17 0.00
+Arunachal Pradesh 160 0 2.7 2.9 -0.3 51 0.00
+Assam 1602 0 26.1 19.6 0.0 101 0.00
+Manipur 206 0 2.9 2.9 0.0 33 0.00
+NER Meghalaya 380 0 6.7 4.9 -0.1 29 0.00
+Mizoram 113 0 1.8 1.6 -0.1 35 0.00
+Nagaland 144 0 2.4 2.3 -0.1 9 0.00
+Tripura 225 0 3.7 3.1 -0.3 23 0.00
+Bhutan Nepal Bangladesh
+1.1 -11.1 -23.5
+124.0 -596.0 -1067.0
+NR WR SR ER NER TOTAL
+76.8 -119.2 218.0 -171.8 -3.9 0.0
+76.4 -112.1 211.5 -177.7 -4.8 -6.7
+-0.4 7.1 -6.5 -5.9 -0.9 -6.7
+NR WR SR ER NER TOTAL % Share
+6236 16071 4228 2147 859 29541 48
+11801 11546 5638 2310 283 31577 52
+18037 27617 9866 4457 1142 61118 100
+NR WR SR ER NER All India % Share
+624 1359 649 694 10 3336 76
+29 20 61 0 0 110 3
+115 25 73 31 16 260 6
+25 31 76 0 0 132 3
+3 15 7 0 30 56 1
+162 130 191 8 1 492 11
+957 1581 1058 732 57 4386 100
+16.92 8.23 18.10 1.11 1.29 11.23
+31.48 11.81 32.18 5.29 29.67 20.16
+1.032
+1.062 Based on State Max Demands
+Diversity factor = Sum of regional or state maximum demands / All India maximum demand
+*Source: RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data.
+**Note: All generation MU figures are gross
+***Godda (Jharkhand) -> Bangladesh power exchange is through the radial connection (isolated from Indian Grid)
+Executive Director-NLDCShare of RES in total generation (%)
+Share of Non-fossil fuel (Hydro,Nuclear and RES) in total generation(%)
+H. All India Demand Diversity Factor
+Based on Regional Max DemandsLignite
+Hydro
+Nuclear
+Gas, Naptha & Diesel
+RES (Wind, Solar, Biomass & Others)
+TotalState Sector
+Total
+G. Sourcewise generation (Gross) (MU)
+CoalActual(MU)
+O/D/U/D(MU)
+F. Generation Outage(MW)
+Central SectorDay Peak (MW) -753.8
+E. Import/Export by Regions (in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)
+Schedule(MU)D. Transnational Exchanges (MU) - Import(+ve)/Export(-ve)   
+Godda -> Bangladesh
+Actual (MU) -12.3Energy Shortage (MU)
+Maximum Demand Met During the Day (MW) (From NLDC SCADA)
+Time Of Maximum Demand Met (From NLDC SCADA)
+B. Frequency Profile (%)
+C. Power Supply Position in StatesDemand Met during Evening Peak hrs(MW) (at 19:00 hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen (MU)
+Wind Gen (MU)
+Solar Gen (MU)*Report for previous day Date of Reporting: 24-Mar-2023
+A. Power Supply Position at All India and Regional level
+ 
+National Load Despatch Centre  
+राष्ट्रीय भार प्रेषण  क ें द्र 
+GRID CONTROLLER OF INDIA LIMITED  
+ग्रिड क ं ट्रोलर ऑफ इंग्रडया  ग्रलग्रिट्ेड  
+ (Government of India Enterprise/  भारत  सरकार  का उद्यि ) 
+B-9, QUTUB INSTITUTIONAL AREA, KATWARIA SARAI, NEW DELHI -110016  
+बी-9, क़ुतुब इन्स्टीट्यूशनल  एररया , कट्वाररया  सराये , न्यू ग्रिल्ली -110016  
+_____________________________________________________________________________________________________  
+ 
+Ref: POSOCO/NLDC/SO/Daily PSP Report        दिन ांक : 24th March 2023  
+ 
+To,  
+ 
+ 
+1. क र्यक री  दनिेशक , पू .क्षे .भ  .प्रे .के ., 14, गोल्फ  क्लब  रोड , कोलक त  - 700033  
+Executive Director, ERLDC, 14 Golf Club Road, Tollygunge, Kolkata, 700033  
+2. क र्यक री  दनिेशक , ऊ. क्षे. भ . प्रे. के., 18/ ए , शहीि  जीत द ांह  न नव ल  म गय, नई दिल्ली  – 110016  
+Executive Director, NRLDC, 18 -A, Shaheed Jeet Singh Marg, Katwaria Sarai, New Delhi – 110016  
+3. क र्यक री  दनिेशक , प .क्षे .भ  .प्रे .के ., एफ -3, एम आई डी  ी क्षेत्र , अांधेरी , म ांबई  –  400093  
+Executive Director, WRLDC, F -3, M.I.D.C. Area, Marol, Andheri (East), Mumbai -400093  
+4. क र्यक री  दनिेशक , ऊ. पू. क्षे. भ . प्रे. के., डोांगदतएह , लोअर  नोांग्रह  , ल पलांग , दशलोांग  – 793006  
+Executive Director, NERLDC, Dongteih, Lower Nongrah, Lapalang, Shillong - 793006, Meghalaya  
+5. क र्यक री  दनिेशक  , ि .क्षे .भ  .प्रे .के ., 29, रे  को य  क्रॉ  रोड, बांगल रु  –  560009  
+Executive Director, SRLDC, 29, Race Course Cross Road, Bangalore -560009 
+ 
+Sub: Daily PSP Report for the date 23.03.2023 . 
+ 
+महोिर् /Dear Sir,  
+ 
+आई०ई०जी० ी०-2010 की ध र   .-5.5.1 के प्र वध न  के अन   र , दिन ांक  23-म र्य -2023 की अखिल  भ रतीर्  प्रण ली  की 
+िैदनक  दग्रड दनष्प िन  ररपोर्य  र ०भ ०प्रे०के० की वेब  इर् पर उप्लब्ध  है |  
+ 
+As per article 5.5.1 of the Indian Electricity Grid Code, the daily report pertaining power supply position of All 
+India Power System for the date 23rd March 2023, is available at the NLDC website.  
+ 
+ 
+ 
+ 
+ 
+धन्यव ि , 
+ 
+ 

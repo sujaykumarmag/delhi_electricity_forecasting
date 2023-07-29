@@ -1,0 +1,161 @@
+3-Jun-19
+NR WR SR ER NER Total
+53424 47839 36710 17663 2544 158180
+1074 0 0 0 128 1202
+1324 1211 946 420 48 3949
+334 15 39 66 14 468
+22 103 126 ---------- ---------- 251
+28.87 23.9 82.43 2.31 0.03 138
+11.0 0.0 0.0 0.0 1.6 12.5
+59391 53125 41482 22236 2518 178279
+00:01 00:00 00:00 00:00 19:26 00:00
+Region FVI <49.7 49.7-49.8 49.8-49.9 <49.9 49.9-50.05 > 50.05
+All India 0.079 0.14 0.54 3.90 4.58 56.03 39.39
+Punjab 8517 0 186.9 106.3 -1.2 66 0.0
+Haryana 8775 0 182.0 119.7 0.2 129 0.0
+Rajasthan 11710 0 260.2 73.9 1.8 527 0.0
+Delhi 6507 0 132.7 111.8 0.0 249 0.0
+UP 20310 0 439.0 190.5 1.3 948 0.0
+Uttarakhand 1992 0 43.0 14.9 -0.5 123 0.0
+HP 1263 0 27.0 1.4 -0.5 159 0.0
+J&K 2193 387 46.8 30.1 -3.7 83 11.0
+Chandigarh 309 0 6.0 7.1 -1.0 51 0.0
+Chhattisgarh 3887 0 88.5 36.3 -1.0 299 0.0
+Gujarat 16987 0 376.2 105.2 4.3 728 0.0
+MP 9614 0 215.2 106.1 0.0 446 0.0
+Maharashtra 21559 0 489.6 117.5 -4.5 446 0.0
+Goa 541 0 12.3 10.1 1.6 83 0.0
+DD 313 0 7.1 6.7 0.3 46 0.0
+DNH 725 0 16.3 16.4 -0.2 60 0.0
+Essar steel 327 0 6.1 6.2 -0.1 278 0.0
+Andhra Pradesh 9382 0 194.2 56.7 -0.1 876 0.0
+Telangana 7567 0 167.0 55.1 0.3 437 0.0
+Karnataka 9279 0 184.8 60.0 -0.1 454 0.0
+Kerala 3921 0 77.6 60.7 1.3 183 0.0
+Tamil Nadu 13757 0 313.7 124.7 -0.5 669 0.0
+Pondy 396 0 8.2 8.5 -0.3 46 0.0
+Bihar 4830 0 88.8 86.5 0.0 700 0.0
+DVC 3147 0 66.3 -36.4 0.6 250 0.0
+Jharkhand 1000 0 25.1 16.7 -1.0 120 0.0
+Odisha 4366 0 85.8 37.6 0.9 400 0.0
+West Bengal 8836 0 153.4 35.4 0.5 350 0.0
+Sikkim 79 0 0.9 1.1 -0.2 30 0.0
+Arunachal Pradesh 144 2 2.0 2.3 -0.3 87 0.0
+Assam 1613 68 29.8 25.0 0.7 176 1.5
+Manipur 167 1 2.3 2.1 0.2 24 0.0
+Meghalaya 298 0 5.9 3.3 0.2 126 0.0
+Mizoram 75 1 1.7 1.3 0.2 23 0.0
+Nagaland 114 2 2.5 2.3 0.0 11 0.0
+Tripura 253 2 4.4 4.2 -0.5 54 0.0
+Bhutan Nepal Bangladesh
+8.4 -6.9 -22.6
+487.0 -419.6 -1132.0
+ 
+NR WR SR ER NER TOTAL
+230.7 -240.4 77.2 -67.0 0.2 0.8
+231.3 -246.5 73.3 -62.2 0.7 -3.5
+0.5 -6.2 -3.9 4.8 0.5 -4.3
+NR WR SR ER NER Total
+4303 13375 7222 350 56 25306
+5700 12297 6690 2780 50 27517
+10003 25672 13912 3130 106 52823
+G. Sourcewise generation (MU)
+NR WR SR ER NER All India
+622 1240 483 447 11 2803
+24 14 43 0 0 82
+334 15 39 66 14 468
+27 18 59 0 0 104
+42 39 14 0 28 123
+67 135 241 2 0 445
+1116 1462 878 516 54 4025
+5.96 9.24 27.42 0.46 0.06 11.05
+38.32 11.50 38.52 13.29 26.14 25.26
+H. Diversity Factor
+1.003
+Diversity factor = Sum of regional maximum demands  / All India maximum demandSolar Gen (MU)*पॉवर सिस्टम ऑपरेशन कारपोरेशन सिसमटेड
+राष्ट्रीय भार प्रेषण केंद्र, नई सिल्िी
+Report for previous day Date of Reporting
+A. Power Supply Position at All India and Regional level
+Demand Met during Evening Peak 
+hrs(MW) (at 2000 hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen (MU)
+Wind Gen (MU)
+Shortage during 
+maximum Demand 
+(MW)Energy Met (MU)Drawal 
+Schedule (MU)Energy Shortage (MU)
+B. Frequency Profile (%)
+C. Power Supply Position in States
+OD(+)/UD(-) 
+(MU)Max OD 
+(MW)StatesMax. Demand 
+Met during the 
+day (MW)Maximum Demand Met during the day 
+(MW) & time (from NLDC SCADA)
+Energy 
+Shortage (MU)
+NR
+O/D/U/D(MU)SR
+ER
+NER
+D. Transnational Exchanges  (MU) - Import(+ve)/Export(-ve)                                                                                                                                                                                                   
+Actual(MU)
+Day peak (MW)
+E. Import/export By Regions(in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)                                                                                                                                                                                                                   
+Schedule(MU)
+Actual(MU)WRRegion
+मुख्य महाप्रबंधक (रा० भा० प्रे० के०) F. Generation Outage(MW)
+Central Sector
+State Sector
+Total
+Share of RES in total generation (%)
+Share of Non-fossil fuel (Hydro, Nuclear 
+and RES) in total generation (%)
+All India Demand Diversity FactorLigniteCoal
+RES (Wind, Solar, Biomass & Others)
+TotalHydro
+Nuclear
+Gas, Naptha & Diesel
+*Source : RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data. 
+National Load Despatch Centre 
+राʼŌीय भार Ů ेषण क Őū 
+POWER SYSTEM OPERATION CORPORATION LIMITED 
+पॉवर िसːम ऑपर ेशन कारपोर ेशन िलिमट ेड 
+ (Government of India Enterprise/  भारत सरकार का उȨम ) 
+B-9, QUTUB INSTITUTIONAL AREA, K ATWARIA SARAI, NEW DELHI -11001 6 
+बी-9, क़ुतुब इɍीǨ ूशनल एįरया , कटवाįरया सराय े, Ɋू िदʟी -110016 
+_______________________________________________________________________________________________________________________________ ________	
+Ref: POSOCO/NLDC/SO/Da ily PSP Report               िदनांक: 03rd June 2019 
+ 
+To, 
+ 
+ 
+1. कायŊकारी िनद ेशक, पू .Ɨे .भा .Ůे .के., 14 , गोʚ Ƒब रोड , कोलकाता  - 700033 
+Executive Director, ERLDC, 14 Go lf Club Road, Tollygunge, Kolka ta, 700033 
+2. कायŊकारी िनद ेशक, ऊ. Ɨे. भा. Ůे. के., 18/ ए , शहीद जीत िस ंह सनसनवाल माग Ŋ, नई िदʟी – 110016  
+Executive Director, NRLDC, 18‐A, Shaheed Jeet Singh Marg, Katwa ria Sarai, New Delhi – 110016 
+3. कायŊकारी िनद ेशक, प .Ɨे .भा .Ůे .के., एफ -3, एम आई डी सी Ɨेũ , अंधेरी, मुंबई –  400093  
+Executive Director, WRLDC, F‐3,  M.I.D.C. Area, Marol, Andheri ( East), Mumbai‐400093  
+4. मुƥ महाŮब ंधक, ऊ. पू. Ɨे. भा. Ůे. के., डोंगितएह , लोअर नो ंŤह , लापल ंग, िशलो ंग – 793006  
+Chief General Manager, NERLDC, Dongteih, Lower Nongrah, Lapalan g, Shillong ‐ 793006, Meghalaya 
+5. कायŊकारी िनदेशक , द .Ɨे .भा .Ůे .के., 29 , रेस कोसŊ Ţॉस रोड, बंगलुŜ –  560009  
+Executive Director, SRLDC, 29, R ace Course Cross Road, Bangalor e‐560009 
+ 
+Sub: Daily PSP Report fo r the date 02.06.2019.  
+ 
+महोदय /Dear Sir,  
+ 
+आई०ई०जी०सी० -2010 की धारा स.-5.5.1 के Ůावधान के अनुसार, िदनांक 02-जून-2019  की अİखल 
+भारतीय Ůणाली की दैिनक िŤड िन˃ादन įरपोट Ŋ रा०भा०Ů े०के० की व ेबसाइट पर उɘɩ ह ै |  
+ 
+As per article 5.5.1 of the Indian Electricity Grid Code, the d aily report pertaining power supply position of All India 
+Power System for the date 02nd June 2019, is available  at the NLDC website.  
+ 
+ 
+ 
+ 
+धɊवाद , 
+ 
+ 

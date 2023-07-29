@@ -1,0 +1,153 @@
+NR WR SR ER NER TOTAL
+46777 57363 48254 21053 2679 176126
+0 0 0 409 0 409
+992 1282 1241 444 46 4005
+126 29 76 26 8 265
+10 51 76 - - 137
+133.76 67.23 110.38 2.75 0.93 315
+0.49 0.00 0.00 1.82 0.00 2.31
+48970 61318 61764 21850 2763 192744
+11:13 11:25 10:40 19:14 18:17 11:05
+Region FVI < 49.7 49.7 - 49.8 49.8 - 49.9 < 49.9 49.9 - 50.05 > 50.05
+All India 0.052 0.00 0.00 4.91 4.91 66.02 29.07
+Max.Demand Shortage during Energy Met Drawal OD(+)/UD(-) Max OD Energy
+Region States Met during the 
+day(MW)maximum 
+Demand(MW)(MU)Schedule
+(MU)(MU) (MW)Shortage 
+(MU)
+Punjab 8205 0 148.0 54.6 -0.1 104 0.00
+Haryana 6702 0 118.4 77.8 -0.8 64 0.00
+Rajasthan 13008 0 249.0 69.5 -2.4 236 0.34
+Delhi 3187 0 61.0 60.4 -1.3 168 0.00
+NR UP 16283 0 297.5 80.8 -2.6 279 0.00
+Uttarakhand 1805 0 31.2 22.8 0.2 142 0.15
+HP 1482 0 30.3 19.1 -0.2 46 0.00
+J&K(UT) & Ladakh(UT) 2604 0 52.9 46.8 -1.2 106 0.00
+Chandigarh 183 0 3.2 3.3 -0.1 19 0.00
+Chhattisgarh 4752 0 105.8 56.2 -1.6 262 0.00
+Gujarat 16634 0 345.2 203.6 -4.9 453 0.00
+MP 11114 0 215.5 103.3 -3.6 429 0.00
+WR Maharashtra 26746 0 550.6 175.7 -0.9 683 0.00
+Goa 686 0 13.0 13.5 -0.6 53 0.00
+DNHDDPDCL 1129 0 22.2 22.8 -0.6 41 0.00
+AMNSIL 818 0 17.6 8.6 0.0 261 0.00
+BALCO 519 0 12.4 12.4 0.0 514 0.00
+Andhra Pradesh 11514 0 223.8 86.5 0.1 598 0.00
+Telangana 14523 0 291.9 157.1 1.2 647 0.00
+SR Karnataka 15352 0 281.6 113.2 1.2 1059 0.00
+Kerala 4255 0 87.7 69.7 -0.1 265 0.00
+Tamil Nadu 17159 0 347.1 197.0 -2.5 663 0.00
+Puducherry 408 0 8.7 8.8 -0.9 23 0.00
+Bihar 4551 225 85.6 73.0 0.9 276 0.48
+DVC 3425 0 69.0 -42.8 1.1 217 0.00
+Jharkhand 1440 0 25.8 24.2 -3.2 87 1.34
+ER Odisha 5348 0 109.9 35.4 0.1 405 0.00
+West Bengal 7577 0 152.3 20.9 -2.5 222 0.00
+Sikkim 99 0 1.5 1.3 0.3 61 0.00
+Arunachal Pradesh 145 0 2.4 2.4 -0.1 41 0.00
+Assam 1604 0 26.8 21.2 0.2 109 0.00
+Manipur 191 0 2.6 2.7 -0.1 41 0.00
+NER Meghalaya 365 0 6.3 5.2 0.0 49 0.00
+Mizoram 116 0 1.7 1.6 -0.2 14 0.00
+Nagaland 143 0 2.2 2.4 -0.2 27 0.00
+Tripura 240 0 4.0 3.7 -0.1 55 0.00
+Bhutan Nepal Bangladesh
+-2.4 -11.5 -24.1
+-254.0 -267.3 -1076.0
+NR WR SR ER NER TOTAL
+107.9 -180.7 213.7 -144.9 4.0 0.0
+94.3 -189.2 235.1 -150.9 4.7 -6.0
+-13.6 -8.5 21.4 -5.9 0.7 -6.0
+NR WR SR ER NER TOTAL % Share
+7149 12824 4438 1645 825 26881 46
+10633 14016 4866 2360 305 32179 54
+17782 26840 9304 4005 1130 59060 100
+NR WR SR ER NER All India % Share
+611 1375 649 645 10 3290 76
+27 19 61 0 0 108 2
+126 29 76 26 8 265 6
+25 43 76 0 0 144 3
+3 3 7 0 29 42 1
+168 119 210 5 1 502 12
+961 1587 1079 675 48 4351 100
+17.53 7.48 19.42 0.70 1.92 11.54
+33.21 12.02 33.53 4.48 19.16 20.94
+1.020
+1.060 Based on State Max Demands
+Diversity factor = Sum of regional or state maximum demands / All India maximum demand
+*Source: RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data.
+**Note: All generation MU figures are gross
+***Godda (Jharkhand) -> Bangladesh power exchange is through the radial connection (isolated from Indian Grid)
+Executive Director-NLDCShare of RES in total generation (%)
+Share of Non-fossil fuel (Hydro,Nuclear and RES) in total generation(%)
+H. All India Demand Diversity Factor
+Based on Regional Max DemandsLignite
+Hydro
+Nuclear
+Gas, Naptha & Diesel
+RES (Wind, Solar, Biomass & Others)
+TotalState Sector
+Total
+G. Sourcewise generation (Gross) (MU)
+CoalActual(MU)
+O/D/U/D(MU)
+F. Generation Outage(MW)
+Central SectorDay Peak (MW) 39.0
+E. Import/Export by Regions (in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)
+Schedule(MU)D. Transnational Exchanges (MU) - Import(+ve)/Export(-ve)   
+Godda -> Bangladesh
+Actual (MU) 0.2Energy Shortage (MU)
+Maximum Demand Met During the Day (MW) (From NLDC SCADA)
+Time Of Maximum Demand Met (From NLDC SCADA)
+B. Frequency Profile (%)
+C. Power Supply Position in StatesDemand Met during Evening Peak hrs(MW) (at 19:00 hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen (MU)
+Wind Gen (MU)
+Solar Gen (MU)*Report for previous day Date of Reporting: 10-Mar-2023
+A. Power Supply Position at All India and Regional level
+ 
+National Load Despatch Centre  
+राष्ट्रीय भार प्रेषण  क ें द्र 
+GRID CONTROLLER OF INDIA LIMITED  
+ग्रिड क ं ट्रोलर ऑफ इंग्रडया  ग्रलग्रिट्ेड  
+ (Government of India Enterprise/  भारत  सरकार  का उद्यि ) 
+B-9, QUTUB INSTITUTIONAL AREA, KATWARIA SARAI, NEW DELHI -110016  
+बी-9, क़ुतुब इन्स्टीट्यूशनल  एररया , कट्वाररया  सराये , न्यू ग्रिल्ली -110016  
+_____________________________________________________________________________________________________  
+ 
+Ref: POSOCO/NLDC/SO/Daily PSP Report        दिन ांक : 10th March  2023 
+ 
+To,  
+ 
+ 
+1. क र्यक री  दनिेशक , पू .क्षे .भ  .प्रे .के ., 14, गोल्फ  क्लब  रोड , कोलक त  - 700033  
+Executive Director, ERLDC, 14 Golf Club Road, Tollygunge, Kolkata, 700033  
+2. क र्यक री  दनिेशक , ऊ. क्षे. भ . प्रे. के., 18/ ए , शहीि  जीत द ांह  न नव ल  म गय, नई दिल्ली  – 110016  
+Executive Director,  NRLDC, 18 -A, Shaheed Jeet Singh Marg, Katwaria Sarai, New Delhi – 110016  
+3. क र्यक री  दनिेशक , प .क्षे .भ  .प्रे .के ., एफ -3, एम आई डी  ी क्षेत्र , अांधेरी , म ांबई  –  400093  
+Executive Director, WRLDC, F -3, M.I.D.C. Area, Marol, Andheri (East), Mumbai -400093  
+4. क र्यक री  दनिेशक , ऊ. पू. क्षे. भ . प्रे. के., डोांगदतएह , लोअर  नोांग्रह  , ल पलांग , दशलोांग  – 793006  
+Executive Director, NERLDC, Dongteih, Lower Nongrah, Lapalang, Shillong - 793006, Meghalaya  
+5. क र्यक री  दनिेशक  , ि .क्षे .भ  .प्रे .के ., 29, रे  को य  क्रॉ  रोड, बांगल रु  –  560009  
+Executive Director, SRLDC, 29, Race Course Cross Road, Bangalore -560009 
+ 
+Sub: Daily PSP Report for the date 09.03.2023 . 
+ 
+महोिर् /Dear Sir,  
+ 
+आई०ई०जी० ी०-2010 की ध र   .-5.5.1 के प्र वध न  के अन   र , दिन ांक  09-म र्य -2023 की अखिल  भ रतीर्  प्रण ली  की 
+िैदनक  दग्रड दनष्प िन  ररपोर्य  र ०भ ०प्रे०के० की वेब  इर् पर उप्लब्ध  है |  
+ 
+As per article 5.5.1 of the Indian Electricity Grid Code, the daily report pertaining power supply position of All 
+India Power System for the date 9th March  2023 , is available at the NLDC website.  
+ 
+ 
+ 
+ 
+ 
+धन्यव ि , 
+ 
+ 

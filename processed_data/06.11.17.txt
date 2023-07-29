@@ -1,0 +1,216 @@
+6-Nov-17
+Import=(+ve) 
+/Export =(-ve) 
+for NET (MU)
+Voltage Export NET
+ Level (MU) (MU)
+1 GAYA-VARANASI D/C 0 240 0.0 7.3 -7.3
+2 SASARAM-FATEHPUR S/C 0 67 0.4 0.0 0.4
+3 GAYA-BALIA S/C 0 254 0.0 4.8 -4.8
+4 ALIPURDUAR-AGRA - 0 177 0.0 7.3 -7.3
+5 PUSAULI  B/B S/C 0 247 0.0 6.1 -6.1
+6 PUSAULI-VARANASI S/C 0 207 0.0 0.0 0.0
+7 PUSAULI -ALLAHABAD S/C 0 103 0.0 0.0 0.0
+8 MUZAFFARPUR-GORAKHPUR D/C 0 569 0.0 9.1 -9.1
+9 PATNA-BALIA Q/C 0 903 0.0 17.6 -17.6
+10 BIHARSHARIFF-BALIA D/C 0 244 0.0 3.4 -3.4
+11 MOTIHARI-GORAKHPUR D/C 0 0 4.0 0.0 4.0
+12 BIHARSHARIFF-VARANASI D/C 0 202 0.0 0.8 -0.8
+13 220 KV PUSAULI-SAHUPURI S/C 0 118 0.0 2.3 -2.3
+14 SONE NAGAR-RIHAND S/C 0 0 0.0 0.0 0.0
+15 GARWAH-RIHAND S/C 0 0 0.9 0.0 0.9
+16 KARMANASA-SAHUPURI S/C 0 0 0.0 0.0 0.0
+17 KARMANASA-CHANDAULI S/C 0 0 0.0 0.0 0.0
+5.3 58.7 -53.4
+18 JHARSUGUDA-DHARAMJAIGARH S/C D/C 0 23 6.3 0.0 6.3
+19 NEW RANCHI-DHARAMJAIGARH D/C 0 88 5.2 0.0 5.2
+20ROURKELA - RAIGARH ( SEL LILO 
+BYPASS)S/C 0 21 1.6 0.0 1.6
+21 JHARSUGUDA-RAIGARH S/C 0 0 1.7 0.0 1.7
+22 IBEUL-RAIGARH S/C 0 0 1.6 0.0 1.6
+23 STERLITE-RAIGARH D/C 0 34 1.6 0.0 1.6
+24 RANCHI-SIPAT D/C 0 0 6.8 0.0 6.8
+25 BUDHIPADAR-RAIGARH S/C 0 23 0.8 0.0 0.8
+26 BUDHIPADAR-KORBA D/C 0 0 0.0 2.2 -2.2
+25.4 2.2 23.2
+27 765 KV ANGUL-SRIKAKULAM D/C 0.0 0.0 0.0 20.0 -20.0
+28 JEYPORE-GAZUWAKA B/B D/C 0.0 295.2 0.0 13.5 -13.5
+29 TALCHER-KOLAR BIPOLE D/C 0.0 1827.4 0.0 35.6 -35.6
+30 400 KV TALCHER-I/C D/C 0.0 881.2 0.0 12.1 -12.1
+31 220 KV BALIMELA-UPPER-SILERRU S/C 0.0 0.0 0.0 0.0 0.0
+0.0 69.1 -69.1
+32 BINAGURI-BONGAIGAON D/C 0 1184 0.0 6.3 -6
+33 ALIPURDUAR-BONGAIGAON D/C 0 975 0.0 3.5 -3
+34 220 KV ALIPURDUAR-SALAKATI D/C 0 0 0.0 1.5 -2
+0.0 11.3 -11.3
+35 HVDC BISWANATH CHARIALI-AGRA - 0 701 0.0 15.8 -15.8
+0.0 15.8 -15.8
+36 CHAMPA-KURUKSHETRA D/C 0 500 0.0 11.7 -11.7
+37 V'CHAL B/B D/C 500 0 12.2 0.0 12.2
+38 APL -MHG D/C 0 537 0.0 12.7 -12.7
+39 GWALIOR-AGRA D/C 0 2260 0.0 44.8 -44.8
+40 PHAGI-GWALIOR D/C 0 1094 0.0 19.4 -19.4
+41 ZERDA-KANKROLI S/C 140 51 0.8 0.0 0.8
+42 ZERDA -BHINMAL S/C 96 205 0.0 1.8 -1.8
+43 V'CHAL -RIHAND S/C 0 0 0.0 0.0 0.0
+44 RAPP-SHUJALPUR D/C 0 306 0 2 -2
+45 BADOD-KOTA S/C 99 0 1.6 0.0 1.6
+46 BADOD-MORAK S/C 34 21 0.3 0.1 0.2
+47 MEHGAON-AURAIYA S/C 72 0 1.4 0.0 1.4
+48 MALANPUR-AURAIYA S/C 27 0 0.4 0.0 0.4
+49 132KV GWALIOR-SAWAI MADHOPUR S/C 0 0 0.0 0.0 0.0
+16.6 92.8 -76.2
+50 BHADRAWATI B/B - 0 1000 0.0 21.7 -21.7
+51 BARSUR-L.SILERU - 0 0 0.0 0.0 0.0
+52 SOLAPUR-RAICHUR D/C 21 1281 0.0 18.6 -18.6
+53 WARDHA-NIZAMABAD D/C 0 1341 0.0 17.9 -17.9
+54 400 KV KOLHAPUR-KUDGI D/C 377 82 2.1 0.2 1.9
+55 KOLHAPUR-CHIKODI D/C 0 0 0.0 0.0 0.0
+56 PONDA-AMBEWADI S/C 0 0 0.0 0.0 0.0
+57 XELDEM-AMBEWADI S/C 73 0 2.0 0.0 2.0
+4.1 58.4 -54.2
+58 BHUTAN
+59 NEPAL
+60 BANGLADESHHVDC
+765 KV
+-2.7765KV INTER-REGIONAL EXCHANGES
+Sl No Line DetailsDate of Reporting :
+Max 
+Import  
+(MW)Max Export (MW)
+Import/Export of ER (With NR)
+400 KV400 KVCircuit Import   (MU)
+-13.0132 KV
+ER-NR
+Import/Export of ER (With  WR)
+Import/Export  of ER (With NER)
+ER-NER
+WR-NR
+HVDC 
+LINK
+10.3HVDC 
+LINK765 KV
+Import/Export of WR (With SR)220 KV220 KV
+ER-WR
+Import/Export of ER (With  SR)
+TRANSNATIONAL EXCHANGE220 KV
+WR-SRImport/Export of WR (With NR)ER-SR
+Import/Export of NER (With NR)
+NER-NR400 KV
+HVDC
+765 KV
+400 KV
+6-Nov-17
+NR WR SR ER NER Total
+39269 44518 34104 17641 2288 137821
+1256 0 169 225 85 1735
+849 1051 759 334 40 3034
+122 22 41 48 16 249
+10 43 41 ---------- ---------- 94
+2.98 15.03 26.80 0.79 0.03 46
+11.2 0.0 0.5 0.7 0.6 13.0
+40456 46822 35334 17891 2294 140141
+Region FVI <49.7 49.7-49.8 49.8-49.9 <49.9 49.9-50.05 > 50.05
+All India 0.033 0.00 0.00 6.63 6.63 81.68 11.69
+Punjab 4699 0 97.9 36.9 -0.1 290 0.0
+Haryana 5830 0 107.5 67.9 0.8 193 0.0
+Rajasthan 10251 0 204.0 67.0 1.9 247 0.0
+Delhi 3187 0 61.8 52.3 0.5 146 0.0
+UP 12550 730 282.2 99.4 0.6 230 1.9
+Uttarakhand 1579 0 30.5 13.0 -1.2 78 0.0
+HP 1249 0 23.0 15.3 0.1 150 0.0
+J&K 1943 486 39.6 34.4 -0.7 86 9.3
+Chandigarh 150 0 2.8 3.2 -0.3 4 0.0
+Chhattisgarh 3152 0 63.8 19.3 -2.6 75 0.0
+Gujarat 14116 0 306.4 78.8 0.9 677 0.0
+MP 10942 0 233.8 164.0 0.2 430 0.0
+Maharashtra 19191 0 405.1 118.1 0.1 645 0.0
+Goa 454 0 9.2 8.2 1.0 29 0.0
+DD 283 0 6.6 6.3 0.3 43 0.0
+DNH 731 0 16.6 16.6 0.1 44 0.0
+Essar steel 476 0 9.7 9.7 0.0 172 0.0
+Andhra Pradesh 7490 0 149.1 54.9 1.7 437 0.0
+Telangana 6668 0 145.4 49.2 -2.5 296 0.0
+Karnataka 8273 0 172.7 78.0 1.7 550 0.5
+Kerala 3040 0 58.5 46.1 0.8 240 0.0
+Tamil Nadu 10855 0 227.8 136.8 -1.2 499 0.0
+Pondy 266 0 5.5 6.1 -0.7 37 0.0
+Bihar 3737 0 64.8 60.0 -0.7 220 0.0
+DVC 3088 0 64.9 -23.8 3.5 225 0.3
+Jharkhand 981 0 22.7 13.7 0.3 85 0.3
+Odisha 4000 0 71.9 35.7 4.9 250 0.0
+West Bengal 6538 0 109.1 19.4 3.9 300 0.0
+Sikkim 84 0 1.1 1.1 0.0 12 0.0
+Arunachal Pradesh 120 2 2.4 2.0 0.4 7 0.0
+Assam 1370 65 22.7 16.7 0.9 139 0.5
+Manipur 166 2 2.3 2.4 -0.1 19 0.0
+Meghalaya 301 0 5.4 2.5 -0.1 59 0.0
+Mizoram 74 1 1.4 1.1 0.2 15 0.0
+Nagaland 126 1 2.2 1.5 0.1 19 0.0
+Tripura 221 0 3.3 1.8 0.4 75 0.0
+Bhutan Nepal Bangladesh
+10.3 -2.7 -13.0
+494.3 -236.0 -628.9
+ 
+NR WR SR ER NER TOTAL
+157.3 -154.0 79.1 -81.8 -4.8 -4.2
+143.7 -156.9 79.9 -68.5 -3.5 -5.3
+-13.5 -2.9 0.8 13.3 1.3 -1.1
+NR WR SR ER NER Total
+3447 14029 3980 1395 410 23260
+10370 16048 12762 6635 50 45865
+13817 30077 16742 8030 459 69125
+G. Sourcewise generation (MU)
+NR WR SR ER NER Total
+515 1101 483 372 6 2477
+122 22 41 48 16 249
+33 16 46 0 0 95
+41 53 15 0 25 134
+16 58 103 1 0 177
+727 1250 686 421 47 3131
+स�चव (ऊजार्)/संयुक्त स�चव (पारेषण )/(ओ एम)/�नदेशक (ओ एम)/मुख्य अ�भयंता -के०�व०प्रा०(�ग्र०प्र०)/Solar Gen (MU)*पॉवर �सस्टम ऑपरेशन कारपोरेशन  �ल�मटेड
+राष्ट्र�य भार प्रेषण क�द्र, नई �दल्ल�
+Report for previous day Date of Reporting
+A. Maximum Demand 
+Demand Met during Evening Peak hrs(MW) 
+(at 1900 hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen(MU)
+Wind Gen(MU)
+Shortage during 
+maximum Demand 
+(MW)Energy Met 
+(MU)Drawal 
+Schedule (MU)Energy Shortage (MU)
+Maximum Demand Met during the day 
+(MW) (from NLDC SCADA)
+B. Frequency Profile (%)
+C. Power Supply Position in States
+OD(+)/UD(-) 
+(MU)Max OD 
+(MW)StatesMax. Demand 
+Met during the 
+day (MW)Energy 
+Shortage (MU)
+NR
+O/D/U/D(MU)SR
+ER
+NER
+D. Transnational Exchanges  (MU) - Import(+ve)/Export(-ve)                                                                                                                                                                                                   
+Actual(MU)
+Day peak (MW)
+E. Import/export By Regions(in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)                                                                                                                                                                                                                   
+Schedule(MU)
+Actual(MU)WRRegionRegion
+मुख्य कायर्पालक  अ�धकार� (पोसोको )/सभी राज्यो के मुख्य स�चव /ऊजार् स�चव
+ महाप्रबंधक  (रा० भा० प्रे० के०) F. Generation Outage(MW)
+Central Sector
+State Sector
+Total
+Thermal (Coal & Lignite)
+RES (Wind, Solar, Biomass & Others)
+TotalHydro
+Nuclear
+Gas, Naptha & Diesel
+*Source : RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data.

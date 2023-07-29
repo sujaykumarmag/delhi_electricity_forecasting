@@ -1,0 +1,157 @@
+16-Jul-18
+NR WR SR ER NER Total
+52981 39630 34925 19175 2597 149308
+1090 0 0 0 102 1192
+1230 928 777 440 50 3425
+319 17 66 95 25 523
+21 99 218 ---------- ---------- 337
+14.02 9.9 32.89 0.58 0.02 57
+12.3 0.0 0.0 0.0 1.4 13.7
+57134 41933 35978 21260 2556 157307
+22:58 11:15 20:37 20:50 19:52 21:14
+Region FVI <49.7 49.7-49.8 49.8-49.9 <49.9 49.9-50.05 > 50.05
+All India 0.024 0.00 0.00 4.46 4.46 86.01 9.54
+Punjab 10878 0 246.8 140.1 -0.1 61 0.0
+Haryana 8782 0 190.0 153.3 1.7 372 0.0
+Rajasthan 8405 0 185.2 61.0 1.2 603 0.0
+Delhi 5760 0 109.5 88.8 -2.4 93 0.0
+UP 18084 0 382.3 184.0 2.2 435 2.2
+Uttarakhand 1915 0 41.5 20.3 0.8 123 0.0
+HP 1257 0 26.5 -0.9 4.2 324 0.0
+J&K 2334 584 42.4 19.9 -3.0 226 10.1
+Chandigarh 282 0 5.3 5.8 -0.5 33 0.0
+Chhattisgarh 3337 0 77.8 16.1 -2.1 466 0.0
+Gujarat 12035 0 269.8 82.0 1.3 634 0.0
+MP 7568 0 164.0 84.6 0.5 570 0.0
+Maharashtra 16608 0 373.0 102.0 -2.1 532 0.0
+Goa 351 0 8.8 7.7 0.5 84 0.0
+DD 300 0 6.8 5.7 1.1 93 0.0
+DNH 745 0 17.3 16.4 0.9 86 0.0
+Essar steel 541 0 10.9 11.2 -0.3 284 0.0
+Andhra Pradesh 6430 0 147.5 5.2 0.6 482 0.0
+Telangana 6777 0 145.4 70.1 0.6 308 0.0
+Karnataka 7226 0 145.8 31.1 -6.8 427 0.0
+Kerala 2643 0 49.6 25.6 0.7 222 0.0
+Tamil Nadu 12743 0 281.4 110.8 -0.9 444 0.0
+Pondy 340 0 7.3 7.5 -0.2 26 0.0
+Bihar 5042 0 99.3 96.9 -0.7 40 0.0
+DVC 3332 0 69.5 -25.3 -0.5 320 0.0
+Jharkhand 1089 0 23.7 18.1 0.0 80 0.0
+Odisha 3873 0 75.9 34.3 3.1 270 0.0
+West Bengal 8221 0 170.6 50.3 5.4 331 0.0
+Sikkim 69 0 1.3 1.4 -0.1 0 0.0
+Arunachal Pradesh 97 1 2.1 2.3 -0.2 2 0.0
+Assam 1698 65 31.0 25.3 0.7 116 1.1
+Manipur 166 2 2.4 2.5 -0.1 34 0.0
+Meghalaya 304 0 5.8 0.4 0.1 34 0.0
+Mizoram 68 2 1.4 0.8 0.0 27 0.0
+Nagaland 99 1 2.1 1.8 -0.1 3 0.0
+Tripura 236 12 4.7 4.1 0.1 5 0.1
+Bhutan Nepal Bangladesh
+33.6 -7.5 -13.3
+1471.4 -431.3 -592.9
+ 
+NR WR SR ER NER TOTAL
+297.4 -223.4 -9.1 -61.9 -3.3 -0.4
+294.0 -220.9 -20.1 -51.0 -4.4 -2.4
+-3.4 2.5 -10.9 10.9 -1.1 -2.0
+NR WR SR ER NER Total
+4354 15427 8052 1155 81 29069
+7575 19386 12520 5625 50 45156
+11929 34813 20572 6780 131 74224
+G. Sourcewise generation (MU)
+NR WR SR ER NER All India
+540 973 388 411 8 2320
+319 17 68 95 25 525
+27 30 46 0 0 103
+23 36 23 0 24 106
+45 109 284 1 0 438
+955 1165 807 508 58 3492
+4.76 9.32 35.12 0.17 0.07 12.56
+41.04 13.34 49.14 18.96 44.02 30.52
+H. Diversity Factor
+1.010
+Diversity factor = Sum of regional maximum demands  / All India maximum demandThermal (Coal & Lignite)
+RES (Wind, Solar, Biomass & Others)
+TotalHydro
+Nuclear
+Gas, Naptha & Diesel
+*Source : RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data.
+ महाप्रबंधक (रा० भा० प्रे० के०) F. Generation Outage(MW)
+Central Sector
+State Sector
+Total
+Share of RES in total generation (%)
+Share of Non-fossil fuel (Hydro, Nuclear and 
+RES) in total generation (%)
+All India Demand Diversity FactorEnergy 
+Shortage (MU)
+NR
+O/D/U/D(MU)SR
+ER
+NER
+D. Transnational Exchanges  (MU) - Import(+ve)/Export(-ve)                                                                                                                                                                                                   
+Actual(MU)
+Day peak (MW)
+E. Import/export By Regions(in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)                                                                                                                                                                                                                   
+Schedule(MU)
+Actual(MU)WRRegionShortage during 
+maximum Demand 
+(MW)Energy Met (MU)Drawal 
+Schedule (MU)Energy Shortage (MU)
+B. Frequency Profile (%)
+C. Power Supply Position in States
+OD(+)/UD(-) 
+(MU)Max OD 
+(MW)StatesMax. Demand 
+Met during the 
+day (MW)Maximum Demand Met during the day 
+(MW) & time (from NLDC SCADA)Solar Gen (MU)*पॉवर सिस्टम ऑपरेशन कारपोरेशन सिसमटेड
+राष्ट्रीय भार प्रेषण केंद्र, नई सिल्िी
+Report for previous day Date of Reporting
+A. Maximum Demand 
+Demand Met during Evening Peak hrs(MW) 
+(at 2000 hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen (MU)
+Wind Gen (MU) 
+National Load Despatch Centre  
+राष्ट्रीय भार प्रेषण केंद्र 
+POWER SYSTEM OPERATION CORPORATION LIMITED  
+पॉवर सिस्टम ऑपरेशन कारपोरेशन  सिसमटेड  
+ (Government of India Enterprise / भारत िरकार का उद्यम ) 
+B-9, QUTU B INSTITUTIONAL AREA, KATWARIA SARAI,  NEW DELHI -110016  
+बी-9, क़ुतुब इन्स्टीट्यूशनि एररया, कटवाररया िराय , न्यू सिल्ली -110016  
+_____________________________________________________________________________________________________________________________ __________  
+Ref: POSOCO/NLDC/SO/Daily PSP  Report             दिन ांक : 16th July 2018  
+ 
+To, 
+ 
+1. मह प्रबांधक , पू .क्षे .भ  .प्रे .के., 14, गोल्फ क्लब रोड , कोलक त  - 700033 
+General Manager, ERLDC, 14 Golf Club Road, Tolleygunge, Kolkata, 700033  
+2. मह प्रबांधक , ऊ. क्षे. भ . प्रे. के., 18/ ए , शहीि जीत दसांह सनसनव ल म गग , नई दिल्ली – 110016  
+General Manager , NRLDC, 18 -A, Shaheed Jeet Singh Marg, Katwaria Sarai, New Delhi – 110016  
+3. मह प्रबांधक , प .क्षे .भ  .प्रे .के., एफ-3, एम आई डी सी क्षेत्र , अांधेरी, म ांबई –  400093  
+General Manager, WRLDC, F -3, M.I.D.C. Area, Marol, Andheri  (East), Mumbai -400093  
+4. मह प्रबांधक , ऊ. पू. क्षे. भ . प्रे. के., डोांगदतएह, लोअर नोांग्रह , ल पलांग, दशलोांग – 793006  
+General Manager, NERLDC, Dongteih, Lower Nongrah, Lapalang, Shillong - 793006, Meghalaya  
+5. अपर मह प्रबांधक  , ि .क्षे .भ  .प्रे .के., 29, रेस कोसग क्रॉस रोड, बांगल रु –  560009  
+Additional General Manager , SRLDC, 29, Race Course Cross Road,  Bangalore -560009  
+ 
+Sub: Daily PSP  Report  for the date 15.07.2018 .  
+ 
+महोिय/Dear Sir,  
+ 
+आई०ई०जी०सी०-2010 की ध र  स.-5.5.1 के प्र वध न के अन स र, दिन ांक  15 ज ल ई  2018 की 
+अखिल भ रतीय  प्रण ली की िैदनक दग्रड दनष्प िन ररपोर्ग र ०भ ०प्रे०के० की वेबस इर् पर उप्लब्ध है  
+ 
+As per article 5.5.1 of the Indian Electricity Grid Code, the daily report pertaini ng power supply position 
+of All  India Power System for the date  15th July 2018 , is available at the NLDC website .  
+ 
+ 
+ 
+ 
+धन्यव ि, 
+ 
+ 

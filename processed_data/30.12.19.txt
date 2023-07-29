@@ -1,0 +1,165 @@
+30-Dec-19
+NR WR SR ER NER Total
+47987 46085 35824 18017 2306 150219
+673 0 0 0 46 719
+979 1090 893 344 39 3346
+123 44 73 28 9 277
+19 68 38 ---------- ---------- 125
+25.86 20.10 76.57 1.68 0.03 124
+12.7 0.0 0.0 0.0 0.7 13.4
+48922 53146 42395 18422 2357 160081
+19:12 10:40 08:26 18:40 17:44 11:15
+Region FVI <49.7 49.7-49.8 49.8-49.9 <49.9 49.9-50.05 > 50.05
+All India 0.036 0.00 0.17 3.24 3.41 70.37 26.22
+Punjab 5608 0 113.8 55.8 -1.6 44 0.0
+Haryana 6201 0 124.6 78.4 0.7 250 0.0
+Rajasthan 12165 427 231.0 67.2 1.9 983 0.0
+Delhi 4691 0 78.0 66.9 0.1 280 0.0
+UP 16871 160 308.0 135.4 0.3 1040 0.0
+Uttarakhand 2087 0 39.1 25.4 0.5 118 0.2
+HP 1553 25 27.5 21.3 -0.7 171 0.0
+J&K(UT) and Ladakh(UT) 2693 673 52.7 43.1 1.0 315 12.4
+Chandigarh 256 0 4.4 4.2 0.2 33 0.0
+Chhattisgarh 3606 0 77.2 18.6 -0.2 251 0.0
+Gujarat 15146 0 306.7 71.5 -1.1 888 0.0
+MP 13583 0 246.9 124.2 -4.6 538 0.0
+Maharashtra 20900 0 415.3 130.5 1.0 543 0.0
+Goa 469 0 13.3 10.2 2.5 31 0.0
+DD 294 0 6.7 6.3 0.4 35 0.0
+DNH 783 0 18.4 18.4 0.0 31 0.0
+Essar steel 292 0 5.8 6.0 -0.2 214 0.0
+Andhra Pradesh 8247 0 163.0 66.3 -0.1 324 0.0
+Telangana 9965 0 204.8 97.3 -0.3 575 0.0
+Karnataka 10380 0 193.3 42.4 -0.3 658 0.0
+Kerala 3325 0 66.5 56.3 1.3 153 0.0
+Tamil Nadu 12037 0 259.2 148.5 0.3 497 0.0
+Pondy 308 0 6.2 6.7 -0.5 33 0.0
+Bihar 4729 0 80.2 77.9 1.0 430 0.0
+DVC 3141 0 64.8 -33.2 0.2 190 0.0
+Jharkhand 1322 0 25.2 16.3 -0.9 50 0.0
+Odisha 3956 0 71.6 8.2 -0.4 220 0.0
+West Bengal 5643 0 100.7 23.2 0.7 210 0.0
+Sikkim 129 0 1.9 1.6 0.3 40 0.0
+Arunachal Pradesh 114 2 2.1 1.9 0.1 55 0.0
+Assam 1356 32 21.4 16.6 0.2 92 0.2
+Manipur 197 4 2.4 3.1 -0.7 72 0.0
+Meghalaya 375 0 6.2 3.1 0.4 70 0.5
+Mizoram 98 2 1.7 1.2 0.1 39 0.0
+Nagaland 121 2 2.1 2.1 -0.3 20 0.0
+Tripura 225 6 3.4 1.5 0.0 40 0.0
+Bhutan Nepal Bangladesh
+3.7 -9.2 -9.7
+322.8 -513.7 -748.0
+ 
+NR WR SR ER NER TOTAL
+249.9 -271.8 106.5 -82.1 -2.5 0.0
+260.7 -281.5 116.3 -93.7 -0.8 1.0
+10.9 -9.7 9.8 -11.7 1.7 1.0
+NR WR SR ER NER Total
+4964 15093 7502 2010 597 30165
+12804 16499 8670 6200 11 44184
+17768 31592 16172 8210 608 74350
+G. Sourcewise generation (MU)
+NR WR SR ER NER All India
+467 1171 465 430 11 2544
+19 14 49 0 0 82
+123 44 73 28 9 277
+29 27 44 0 0 100
+26 32 17 0 24 100
+74 99 156 2 0 330
+738 1386 804 460 44 3433
+10.00 7.11 19.41 0.38 0.07 9.62
+30.65 12.19 33.98 6.54 19.86 20.61
+H. All India Demand Diversity Factor
+1.032
+1.080
+Diversity factor = Sum of regional or state-wise maximum demands  / All India maximum demandSolar Gen (MU)*पॉवर सिस्टम ऑपरेशन कारपोरेशन सिसमटेड
+राष्ट्रीय भार प्रेषण केंद्र, नई सिल्ली
+Report for previous day Date of Reporting
+A. Power Supply Position at All India and Regional level
+Demand Met during Evening Peak hrs(MW) (at 1900 
+hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen (MU)
+Wind Gen (MU)
+Shortage during 
+maximum 
+Demand (MW)Energy Met (MU)Drawal 
+Schedule (MU)Energy Shortage (MU)
+B. Frequency Profile (%)
+C. Power Supply Position in States
+OD(+)/UD(-) 
+(MU)Max OD 
+(MW)StatesMax. Demand 
+Met during the 
+day (MW)Maximum Demand Met during the day (MW) & time 
+(from NLDC SCADA)
+Energy 
+Shortage (MU)
+NR
+O/D/U/D(MU)SR
+ER
+NER
+D. Transnational Exchanges  (MU) - Import(+ve)/Export(-ve)                                                                                                                                                                                                   
+Actual(MU)
+Day peak (MW)
+E. Import/export By Regions(in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)                                                                                                                                                                                                                   
+Schedule(MU)
+Actual(MU)WRRegion
+काययपािक सनिेशक (रा० भा० प्रे० के०) F. Generation Outage(MW)
+Central Sector
+State Sector
+Total
+Share of RES in total generation (%)
+Share of Non-fossil fuel (Hydro, Nuclear and RES) in 
+total generation (%)
+Based on Regional Max DemandsLignite
+Based on State Max DemandsCoal
+RES (Wind, Solar, Biomass & Others)
+TotalHydro
+Nuclear
+Gas, Naptha & Diesel
+*Source : RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data. 
+National Load Despatch Centre 
+राʼŌीय भार Ů ेषण क Őū 
+POWER SYSTEM OPERATION CORPORATION LIMITED 
+पॉवर िसːम ऑपर ेशन कारपोर ेशन िलिमट ेड 
+ (Government of Indi a Enterprise/  भारत सरकार का उȨम ) 
+B-9, QUTUB INSTITUTION AL AREA, KATWARIA SAR AI, NEW DELHI -11001 6 
+बी-9, क़ुतुब इɍीǨ ूशनल एįरया , कटवाįरया सराय े, Ɋू िदʟी -110016 
+_______________________________________________________________________________________________________________________________ ________	
+Ref: POSOCO/NLDC/SO/Daily  PSP Report                        िदनांक: 30th Dec 2019 
+ 
+To, 
+ 
+ 
+1. कायŊकारी िनद ेशक, पू .Ɨे .भा .Ůे .के.,  14 , गोʚ Ƒब रोड , कोलकाता  - 700033 
+Executive Director, ERLDC, 14 Go lf Club Road, Tollygunge, Kolka ta, 700033 
+2. कायŊकारी िनद ेशक, ऊ. Ɨे. भा. Ůे. के., 18/ ए , शहीद जीत िस ंह सनसनवाल माग Ŋ, नई िदʟी – 110016  
+Executive Director, NRLDC, 18‐A, Shaheed Jeet Singh Marg, Katwa ria Sarai, New Delhi – 110016 
+3. कायŊकारी िनद ेशक, प .Ɨे .भा .Ůे .के., एफ-3,  एम आई डी सी Ɨेũ , अंधेरी, मुंबई – 400093  
+Executive Director, WRLDC, F‐3,  M.I.D.C. Area, Marol, Andheri ( East), Mumbai‐400093  
+4. कायŊकारी िनद ेशक, ऊ. पू. Ɨे. भा. Ůे. के., डोंगितएह, लोअर नो ंŤह , लापल ंग, िशलो ंग – 793006  
+Executive Director, NERLDC, Dong teih, Lower Nongrah, Lapalang,  Shillong ‐ 793006, Meghalaya 
+5. कायŊकारी िनदेशक , द .Ɨे .भा .Ůे .के.,  29 , रेस कोसŊ Ţॉस रोड, बंगलुŜ – 560009  
+Executive Director, SRLDC, 29, R ace Course Cross Road, Bangalor e‐560009 
+ 
+Sub: Daily PSP Report fo r the date 29.12.2019. 
+ 
+महोदय/Dear Sir,  
+ 
+आई०ई०जी०सी० -2010 की धारा स.-5.5.1 के Ůावधान के अनुसार, िदनांक 29- िदसɾर-2019  की अİखल 
+भारतीय Ůणाली की दैिनक िŤड िन˃ादन įरपोट Ŋ रा०भा०Ů े०के० की व ेबसाइट पर उɘɩ ह ै |  
+ 
+As per article 5.5.1 of the Indian Electricity Grid Code, the d aily report pertaining power supply position of All India 
+Power System for the date 29th Dec 2019, is available at the NLDC website.  
+ 
+ 
+ 
+ 
+धɊवाद, 
+ 
+ 
+  
+ 

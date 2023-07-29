@@ -1,0 +1,157 @@
+12-Oct-18
+NR WR SR ER NER Total
+45251 53572 42950 19278 2418 163469
+704 75 500 0 182 1461
+1031 1283 977 389 43 3723
+199 30 110 79 17 435
+7 28 49 ---------- ---------- 84
+20.92 18.73 59.95 0.65 0.00 100
+9.0 7.6 2.2 0.0 1.6 20.4
+47945 56399 44101 19464 2489 166659
+18:44 11:02 16:59 18:52 18:02 18:39
+Region FVI <49.7 49.7-49.8 49.8-49.9 <49.9 49.9-50.05 > 50.05
+All India 0.042 0.00 1.32 8.04 9.36 77.94 12.70
+Punjab 6459 0 151.4 30.5 -1.4 76 0.0
+Haryana 7016 0 138.3 86.4 2.4 321 0.0
+Rajasthan 10121 0 219.8 46.2 1.1 443 0.0
+Delhi 4369 0 88.3 64.9 -1.2 75 0.1
+UP 15019 0 333.6 127.0 -0.8 314 0.0
+Uttarakhand 1752 0 32.4 9.7 -0.5 271 0.0
+HP 1319 0 26.3 9.6 0.6 114 0.1
+J&K 1780 445 37.5 34.2 -9.1 331 8.9
+Chandigarh 193 0 3.6 3.8 -0.2 22 0.0
+Chhattisgarh 4169 0 98.4 28.9 -0.6 125 0.0
+Gujarat 17429 0 395.0 107.2 13.8 855 0.0
+MP 10737 0 234.5 119.9 0.3 472 0.0
+Maharashtra 24239 620 513.0 192.2 0.8 637 7.6
+Goa 470 0 10.5 9.8 0.3 84 0.0
+DD 307 0 6.9 6.0 0.9 88 0.0
+DNH 780 0 18.2 16.7 1.4 126 0.0
+Essar steel 357 0 6.4 6.6 -0.2 279 0.0
+Andhra Pradesh 8560 0 188.5 68.7 1.3 560 0.0
+Telangana 10261 0 222.7 121.4 0.6 472 0.0
+Karnataka 9407 0 199.7 30.7 3.1 656 0.0
+Kerala 3199 400 68.5 33.9 1.5 286 2.2
+Tamil Nadu 13251 0 290.1 133.5 3.5 600 0.0
+Pondy 359 0 7.4 7.2 0.2 59 0.0
+Bihar 4598 0 83.6 84.4 -3.4 50 0.0
+DVC 2813 0 59.7 -21.5 1.0 195 0.0
+Jharkhand 988 0 19.7 16.3 -3.1 10 0.0
+Odisha 4292 0 87.1 30.8 0.9 180 0.0
+West Bengal 7369 0 137.9 24.9 -0.1 100 0.0
+Sikkim 93 0 1.3 1.3 0.0 15 0.0
+Arunachal Pradesh 121 2 2.2 2.1 0.1 115 0.0
+Assam 1574 48 26.6 21.2 1.1 168 1.5
+Manipur 135 3 2.1 2.3 -0.3 36 0.0
+Meghalaya 251 0 4.9 2.7 -0.3 171 0.0
+Mizoram 91 1 1.5 0.9 0.3 30 0.0
+Nagaland 102 3 2.2 1.8 -0.1 - 0.0
+Tripura 231 2 3.8 3.2 -1.0 - 0.1
+Bhutan Nepal Bangladesh
+13.9 -2.7 -16.6
+785.9 160.0 748.0
+ 
+NR WR SR ER NER TOTAL
+123.2 -147.9 87.5 -59.1 -2.0 1.7
+111.0 -151.0 93.6 -52.8 -3.1 -2.3
+-12.2 -3.1 6.1 6.3 -1.1 -4.0
+NR WR SR ER NER Total
+4139 13511 6722 1100 426 25898
+7285 12667 7260 5495 21 32728
+11424 26178 13982 6595 447 58626
+G. Sourcewise generation (MU)
+NR WR SR ER NER All India
+642 1248 570 389 28 2878
+199 30 110 79 0 418
+23 12 34 0 0 69
+55 83 25 0 50 213
+45 48 148 1 0 241
+965 1421 886 469 79 3818
+4.64 3.36 16.71 0.14 0.00 6.32
+27.70 6.31 32.89 16.99 0.01 19.06
+H. Diversity Factor
+1.022
+Diversity factor = Sum of regional maximum demands  / All India maximum demandThermal (Coal & Lignite)
+RES (Wind, Solar, Biomass & Others)
+TotalHydro
+Nuclear
+Gas, Naptha & Diesel
+*Source : RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data.
+कार्यपालक निदेशक (रा० भा० प्रे० के०) F. Generation Outage(MW)
+Central Sector
+State Sector
+Total
+Share of RES in total generation (%)
+Share of Non-fossil fuel (Hydro, Nuclear and 
+RES) in total generation (%)
+All India Demand Diversity FactorEnergy 
+Shortage (MU)
+NR
+O/D/U/D(MU)SR
+ER
+NER
+D. Transnational Exchanges  (MU) - Import(+ve)/Export(-ve)                                                                                                                                                                                                   
+Actual(MU)
+Day peak (MW)
+E. Import/export By Regions(in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)                                                                                                                                                                                                                   
+Schedule(MU)
+Actual(MU)WRRegionShortage during 
+maximum Demand 
+(MW)Energy Met (MU)Drawal 
+Schedule (MU)Energy Shortage (MU)
+B. Frequency Profile (%)
+C. Power Supply Position in States
+OD(+)/UD(-) 
+(MU)Max OD 
+(MW)StatesMax. Demand 
+Met during the 
+day (MW)Maximum Demand Met during the day 
+(MW) & time (from NLDC SCADA)Solar Gen (MU)*पॉवर निस्टम ऑपरेशि कारपोरेशि नलनमटेड
+राष्ट्रीर् भार प्रेषण केंद्र, िई नदल्ली
+Report for previous day Date of Reporting
+A. Maximum Demand 
+Demand Met during Evening Peak hrs(MW) 
+(at 1900 hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen (MU)
+Wind Gen (MU) 
+National Load Despatch Centre 
+राʼŌीय भार Ů ेषण क Őū 
+POWER SYSTEM OPERATION CORPORATION LIMITED 
+पॉवर िसːम ऑपर ेशन कारपोर ेशन िलिमट ेड 
+ (Government of Indi a Enterprise/  भारत सरकार का उȨम ) 
+B-9, QUTUB INSTITUTION AL AREA, KATWARIA SAR AI, NEW DELHI -11001 6 
+बी-9, क़ुतुब इɍीǨ ूशनल एįरया , कटवाįरया सराय े, Ɋू िदʟी -110016 
+_______________________________________________________________________________________________________________________________ ________	
+Ref: POSOCO/NLDC/SO/Da ily PSP Report               िदनांक: 12th Oct 2018 
+ 
+To, 
+ 
+1. कायŊकारी िनद ेशक, पू .Ɨे .भा .Ůे .के.,  14 , गोʚ Ƒब रोड , कोलकाता  - 700033 
+Executive Director, ERLDC, 14 Go lf Club Road, Tolleygunge, Kolk ata, 700033 
+2. कायŊकारी िनद ेशक, ऊ. Ɨे. भा. Ůे. के., 18/ ए , शहीद जीत िस ंह सनसनवाल माग Ŋ, नई िदʟी – 110016  
+Executive Director, NRLDC, 18‐A, Shaheed Jeet Singh Marg, Katwa ria Sarai, New Delhi – 110016 
+3. कायŊकारी िनद ेशक, प .Ɨे .भा .Ůे .के., एफ-3,  एम आई डी सी Ɨेũ , अंधेरी, मुंबई – 400093  
+Executive Director, WRLDC, F‐3,  M.I.D.C. Area, Marol, Andheri ( East), Mumbai‐400093  
+4. कायŊकारी िनदेशक, ऊ. पू. Ɨे. भा. Ůे. के., डोंगितएह, लोअर नो ंŤह , लापल ंग, िशलो ंग – 793006  
+Executive Director, NERLDC, Dong teih, Lower Nongrah, Lapalang,  Shillong ‐ 793006, Meghalaya 
+5. कायŊकारी िनदेशक , द .Ɨे .भा .Ůे .के.,  29 , रेस कोसŊ Ţॉस रोड, बंगलुŜ – 560009  
+Executive Director, SRLDC, 29, R ace Course Cross Road, Bangalor e‐560009 
+ 
+Sub: Daily PSP Report fo r the date 11.10.2018.  
+ 
+महोदय/Dear Sir,  
+ 
+आई०ई०जी०सी० -2010 की धारा स.-5.5.1 के Ůावधान के अनुसार, िदनांक 11- अƃूबर-2018  की अİखल 
+भारतीय Ůणाली की दैिनक िŤड िन˃ादन įरपोट Ŋ रा०भा०Ů े०के० की व ेबसाइट पर उɘɩ ह ै |  
+ 
+As per article 5.5.1 of the Indian Electricity Grid Code, the d aily report pertaining power supply position of All India 
+Power System for the date 11th October 2018, is available  at the NLDC website.  
+ 
+ 
+ 
+ 
+धɊवाद, 
+ 
+ 

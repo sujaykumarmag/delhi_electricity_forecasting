@@ -1,0 +1,148 @@
+21-Jun-18
+NR WR SR ER NER Total
+55134 46871 41331 19338 2686 165360
+1014 101 0 0 82 1197
+1304 1126 925 454 48 3857
+260 35 77 87 24 482
+17 67 142 ---------- ---------- 226
+18.56 19.08 59.05 0.78 0.02 97
+28.8 0.0 0.0 0.0 1.1 29.9
+57940 50894 42072 21519 2744 168996
+22:32 14:41 19:28 00:00 19:20 20:48
+Region FVI <49.7 49.7-49.8 49.8-49.9 <49.9 49.9-50.05 > 50.05
+All India 0.134 1.52 4.71 34.95 41.18 56.42 2.40
+Punjab 10184 0 229.2 111.2 -1.2 87 4.6
+Haryana 8800 0 191.0 128.8 3.1 324 4.3
+Rajasthan 9886 0 225.6 65.8 0.5 413 1.9
+Delhi 6204 0 126.6 97.2 -0.1 288 0.0
+UP 18236 60 405.5 168.4 2.9 474 6.2
+Uttarakhand 2124 0 50.3 18.2 1.7 258 1.9
+HP 1426 0 28.1 7.8 3.1 389 0.0
+J&K 2041 510 42.2 16.7 0.3 230 10.0
+Chandigarh 296 0 5.8 5.7 0.2 43 0.0
+Chhattisgarh 3632 0 84.5 17.4 -2.1 231 0.0
+Gujarat 16816 0 368.1 143.2 2.2 309 0.0
+MP 8112 0 178.0 66.3 0.6 476 0.0
+Maharashtra 20338 0 450.9 137.6 -2.4 405 0.0
+Goa 426 0 8.9 8.3 0.0 35 0.0
+DD 344 0 7.6 6.3 1.4 91 0.0
+DNH 748 0 17.1 16.6 0.5 83 0.0
+Essar steel 526 0 10.7 10.4 0.3 187 0.0
+Andhra Pradesh 9188 0 188.2 31.8 3.6 719 0.0
+Telangana 7616 0 160.9 67.7 1.5 563 0.0
+Karnataka 8383 0 178.6 53.9 1.6 587 0.0
+Kerala 3215 0 63.9 40.2 0.2 212 0.0
+Tamil Nadu 15183 0 325.4 100.8 0.1 818 0.0
+Pondy 384 0 7.9 8.2 -0.3 51 0.0
+Bihar 4870 0 94.6 91.0 0.9 435 0.0
+DVC 2785 0 67.6 -26.6 -0.1 345 0.0
+Jharkhand 1084 0 23.7 17.7 -0.3 170 0.0
+Odisha 4676 0 95.6 42.2 1.8 345 0.0
+West Bengal 8598 0 171.4 64.2 -0.7 435 0.0
+Sikkim 83 0 1.4 1.1 0.2 20 0.0
+Arunachal Pradesh 122 2 2.0 2.3 -0.2 45 0.0
+Assam 1721 30 30.0 22.5 2.6 146 0.9
+Manipur 170 2 2.2 2.4 -0.3 49 0.0
+Meghalaya 289 0 5.8 -0.2 0.3 32 0.0
+Mizoram 89 1 1.6 0.8 0.2 9 0.0
+Nagaland 124 1 2.1 1.9 0.0 35 0.0
+Tripura 264 2 4.8 3.1 0.7 73 0.0
+Bhutan Nepal Bangladesh
+17.6 -8.5 -14.6
+953.8 -418.9 -657.0
+ 
+NR WR SR ER NER TOTAL
+255.3 -198.8 -3.0 -51.6 -4.2 -2.3
+249.6 -199.8 -0.5 -47.3 -2.1 -0.1
+-5.7 -1.0 2.5 4.3 2.1 2.2
+NR WR SR ER NER Total
+3705 15809 9902 750 485 30651
+5080 16564 7220 6775 50 35689
+8785 32373 17122 7525 535 66339
+G. Sourcewise generation (MU)
+NR WR SR ER NER All India
+681 1152 559 439 10 2840
+260 34 79 87 24 484
+31 29 47 0 0 107
+45 54 15 0 21 134
+50 87 238 1 0 376
+1067 1356 937 527 54 3940
+4.67 6.38 25.43 0.21 0.06 9.53
+31.97 11.09 38.79 16.72 44.22 24.53
+H. Diversity Factor
+1.037
+Diversity factor = Sum of regional maximum demands  / All India maximum demand
+सचिव(ऊर्जा)/संयुक्त सचिव(पजरेषण)/(ओ एम)/चिदेशक(ओ एम)/मुख्य अचियंतज-के०चव०प्रज०(चि०प्र०)/Solar Gen (MU)*पॉवर चसस्टम ऑपरेशि कजरपोरेशि चिचमटेड
+रजष्ट्रीय िजर प्रेषण केंद्र, िई चदल्ली
+Report for previous day Date of Reporting
+A. Maximum Demand 
+Demand Met during Evening Peak hrs(MW) 
+(at 2000 hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen (MU)
+Wind Gen (MU)
+Shortage during 
+maximum Demand 
+(MW)Energy Met (MU)Drawal 
+Schedule (MU)Energy Shortage (MU)
+B. Frequency Profile (%)
+C. Power Supply Position in States
+OD(+)/UD(-) 
+(MU)Max OD 
+(MW)StatesMax. Demand 
+Met during the 
+day (MW)Maximum Demand Met during the day 
+(MW) & time (from NLDC SCADA)
+Energy 
+Shortage (MU)
+NR
+O/D/U/D(MU)SR
+ER
+NER
+D. Transnational Exchanges  (MU) - Import(+ve)/Export(-ve)                                                                                                                                                                                                   
+Actual(MU)
+Day peak (MW)
+E. Import/export By Regions(in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)                                                                                                                                                                                                                   
+Schedule(MU)
+Actual(MU)WRRegion
+अध्यक्ष एवं प्रबंध चिदेशक(पोसोको)/सिी रजज्यो के मुख्य सचिव/ऊर्जा सचिव
+ महजप्रबंधक (रज० िज० प्रे० के०) F. Generation Outage(MW)
+Central Sector
+State Sector
+Total
+Share of RES in total generation (%)
+Share of Non-fossil fuel (Hydro, Nuclear and 
+RES) in total generation (%)
+All India Demand Diversity FactorThermal (Coal & Lignite)
+RES (Wind, Solar, Biomass & Others)
+TotalHydro
+Nuclear
+Gas, Naptha & Diesel
+*Source : RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data.National Load Despatch Centre 
+राçट्रीय भार प्रेषण कɅद्र
+POWER SYSTEM OPERATION CORPORATION LIMITED 
+पॉवर िसèटम ऑपरेशन कारपोरेशन िलिमटेड
+(Government of India Enterprise/ भारत  सरकार का उɮयम )
+B-9, QUTUB INSTITUTIONAL AREA, K ATWARIA SARAI, NEW DELHI -11001 6 
+बी-9, क़ुतुब इÛèटीɪय ूशनल एिरया , कटवािरया  सराये, Ûयू िदãली -110016
+_______________________________________________________________________________________________________________________________ ________	
+Ref: POSOCO/NLDC/SO/Da ily PSP Report  िदनांक: 21st June 2018
+To, 
+1.महाŮब ंधक, पू .Ɨे .भा .Ůे .क े., 14 , गोʚ Ƒब रोड , कोलकाता  - 700033
+General Manager, ERLDC, 14 Golf  Club Road, Tolleygunge, Kolkata , 700033
+2.महाप्रबंधक, ऊ. क्षे. भा. प्रे. के., 18/ ए , शहीद जीत िस ंह सनसनवाल माग र्, नई िदãली  – 110016
+General Manager, NRLDC, 18‐A, Shaheed Jeet Singh Marg, Katwaria  Sarai, New Delhi – 110016
+3.महाŮब ंधक, प .Ɨे .भा .Ůे .क े., एफ -3, एम आई डी सी Ɨेũ , अंधेरी, मुंबई –400093
+General Manager, WRLDC, F‐3, M.I .D.C. Area, Marol, Andheri (Eas t), Mumbai‐400093
+4.महाप्रबंधक, ऊ. पू. क्षे. भा. प्रे. के., डɉगितएह , लोअर नɉग्रह ,  लापलंग, िशलɉग  – 793006
+General Manager, NERLDC, Dongteih, Lower Nongrah, Lapalang, Shillong ‐ 793006, Meghalaya
+5.अपर महाŮब ंधक , द .Ɨे .भा .Ůे .क े., 29 , रेस कोसŊ Ţॉस  रोड, बंगलुŜ –560009
+Additional General Manager, SRLD C, 29, Race Course Cross Road, Bangalore‐560009
+Sub: Daily PSP Report for the date 20.06.2018. 
+महोदय /Dear	Sir,  
+आई०ई०जी०सी०-2010 की  धारा स.-5.5.1 के Ůावधान के अनुसार, िदनांक 20-जून  2018 की अİखल 
+भारतीय	 Ůणाली की दै िनक िŤड िन˃ादन įरपोट Ŋ रा०भा०Ů े०के ० की वे बसाइट पर उɘɩ है  
+As per article 5.5.1 of the Indian Electricity Grid Code, the daily report pertaining power supply 
+position of All India Power System for the da te 20th June 2018, is available at the NLDC websit e.  
+धÛयवाद , 

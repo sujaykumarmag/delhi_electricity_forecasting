@@ -1,0 +1,151 @@
+NR WR SR ER NER TOTAL
+39989 37634 33085 14033 1957 126698
+561 0 0 0 63 624
+793 973 845 276 30 2917
+180 62 57 56 7 361
+8 97 50 - - 155
+36.60 27.60 83.25 4.68 0.01 152
+10.6 0.0 0.0 0.0 4.2 14.8
+40465 48109 38564 13957 2006 130027
+20:01 15:12 13:39 20:48 18:47 22:20
+Region FVI < 49.7 49.7 - 49.8 49.8 - 49.9 < 49.9 49.9 - 50.05 > 50.05
+All India 0.038 0.00 0.72 3.91 4.63 75.95 19.42
+Max.Demand Shortage during Energy Met Drawal OD(+)/UD(-) Max OD Energy
+Region States Met during the 
+day(MW)maximum 
+Demand(MW)(MU)Schedule
+(MU)(MU) (MW)Shortage 
+(MU)
+Punjab 4747 0 91.0 66.0 -0.3 147 0.0
+Haryana 5569 0 94.2 84.9 1.8 273 0.0
+Rajasthan 8507 0 170.6 61.9 0.3 493 0.0
+Delhi 3048 0 59.5 50.7 -2.3 23 0.0
+NR UP 16889 0 293.6 127.3 2.1 1410 0.0
+Uttarakhand 1233 0 22.8 8.1 0.2 110 0.0
+HP 842 0 14.1 -1.2 -0.3 133 0.0
+J&K(UT) & Ladakh(UT) 2243 561 44.6 31.9 0.1 256 10.6
+Chandigarh 145 0 2.8 2.7 0.0 31 0.0
+Chhattisgarh 3162 0 74.5 18.3 -1.2 159 0.0
+Gujarat 12498 0 280.6 62.1 2.5 502 0.0
+MP 8756 0 187.9 98.5 -2.8 357 0.0
+WR Maharashtra 18664 0 412.7 155.7 1.7 437 0.0
+Goa 455 0 9.2 9.4 -0.2 42 0.0
+DD 128 0 2.9 3.0 -0.1 11 0.0
+DNH 150 0 3.4 3.4 0.0 26 0.0
+AMNSIL 339 0 1.5 1.0 0.5 151 0.0
+Andhra Pradesh 8410 0 169.4 89.4 -0.2 469 0.0
+Telangana 7240 0 146.0 64.2 -1.2 304 0.0
+SR Karnataka 9664 0 193.5 57.7 -1.2 581 0.0
+Kerala 3511 0 69.9 48.1 0.7 193 0.0
+Tamil Nadu 11172 0 260.8 180.5 -1.2 411 0.0
+Puducherry 291 0 5.8 6.0 -0.3 62 0.0
+Bihar 4235 0 71.8 70.2 1.2 410 0.0
+DVC 1638 0 31.8 -18.4 0.8 322 0.0
+Jharkhand 1263 0 21.1 17.7 -1.7 165 0.0
+ER Odisha 2775 0 56.5 -13.0 -0.9 503 0.0
+West Bengal 4843 0 93.3 29.1 -0.1 263 0.0
+Sikkim 110 0 1.5 1.5 0.0 35 0.0
+Arunachal Pradesh 103 1 1.4 1.1 0.1 32 0.0
+Assam 1144 35 16.5 13.5 0.0 84 4.0
+Manipur 184 1 2.2 2.3 -0.1 41 0.0
+NER Meghalaya 259 0 4.1 2.3 0.0 60 0.1
+Mizoram 85 2 1.4 1.2 0.1 24 0.0
+Nagaland 116 2 1.8 1.8 -0.2 14 0.0
+Tripura 202 10 2.9 2.2 -0.9 34 0.0
+Bhutan Nepal Bangladesh
+7.8 -0.7 -10.1
+681.7 -106.1 -656.0
+NR WR SR ER NER TOTAL
+160.1 -209.3 157.3 -105.0 -3.2 0.0
+163.0 -212.4 162.6 -109.6 -7.0 -3.5
+2.9 -3.1 5.3 -4.7 -3.8 -3.5
+NR WR SR ER NER TOTAL
+7661 21926 8482 2230 712 41011
+19233 24391 13228 8742 11 65605
+26894 46316 21710 10972 723 106616
+NR WR SR ER NER All India
+319 890 375 353 7 1944
+24 12 37 0 0 73
+180 62 57 56 7 361
+28 36 51 0 0 115
+23 50 20 0 25 118
+73 145 156 5 3 381
+646 1196 696 413 42 2993
+11.31 12.11 22.36 1.15 6.44 12.73
+43.40 20.30 37.93 14.60 22.79 28.64
+1.101
+1.112 Based on State Max Demands
+Diversity factor = Sum of regional or state maximum demands / All India maximum demand
+*Source: RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data.
+Executive Director-NLDCShare of RES in total generation (%)
+Share of Non-fossil fuel (Hydro,Nuclear and RES) in total generation(%)
+H. All India Demand Diversity Factor
+Based on Regional Max DemandsLignite
+Hydro
+Nuclear
+Gas, Naptha & Diesel
+RES (Wind, Solar, Biomass & Others)
+TotalState Sector
+Total
+G. Sourcewise generation (MU)
+CoalActual(MU)
+O/D/U/D(MU)
+F. Generation Outage(MW)
+Central SectorDay Peak (MW)
+E. Import/Export by Regions (in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)
+Schedule(MU)D. Transnational Exchanges (MU) - Import(+ve)/Export(-ve)   
+Actual (MU)Energy Shortage (MU)
+Maximum Demand Met During the Day (MW) (From NLDC SCADA)
+Time Of Maximum Demand Met (From NLDC SCADA)
+B. Frequency Profile (%)
+C. Power Supply Position in StatesDemand Met during Evening Peak hrs(MW) (at 2000 hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen (MU)
+Wind Gen (MU)
+Solar Gen (MU)*Report for previous day Date of Reporting: 25-Apr-2020
+A. Power Supply Position at All India and Regional level
+ 
+National Load Despatch Centre  
+राष्ट्रीय भार प्रेषण केंद्र 
+POWER SYSTEM OPERATION CORPORATION LIMITED  
+पॉवर सिस्टम ऑपरेशन कारपोरेशन  सिसमटेड  
+ (Government of India Enterprise / भारत िरकार का उद्यम ) 
+B-9, QUTU B INSTITUTIONAL AREA, KATWARIA SARAI,  NEW DELHI -110016  
+बी-9, क़ुतुब इन्स्टीट्यूशनि एररया, कटवाररया िराये , न्यू सिल्ली -110016  
+_____________________________________________________________________________________________________________________________ __________  
+Ref: POSOCO/NLDC/SO/Daily PSP  Report                      दिन ांक : 25th Apr 2020 
+ 
+To, 
+ 
+ 
+1. क र्यक री  दनिेशक, पू .क्षे .भ  .प्रे .के., 14, गोल्फ क्लब रोड , कोलक त  - 700033 
+Executive Director , ERLDC, 14 Golf Club Road, Toll ygunge, Kolkata, 700033  
+2. क र्यक री  दनिेशक, ऊ. क्षे. भ . प्रे. के., 18/ ए , शहीि जीत दसांह सनसनव ल म गय , नई दिल्ली – 110016 
+Executive Director , NRLDC, 18 -A, Shaheed Jeet Singh Marg, Katwaria Sarai, New Delhi – 110016  
+3. क र्यक री  दनिेशक, प .क्षे .भ  .प्रे .के., एफ-3, एम आई डी सी क्षेत्र , अांधेरी, म ांबई – 400093 
+Executive Director , WRLDC, F -3, M.I.D.C. Area, Marol, Andheri  (East), Mumbai -400093  
+4. क र्यक री दनिेशक, ऊ. पू. क्षे. भ . प्रे. के., डोांगदतएह, लोअर नोांग्रह , ल पलांग, दशलोांग – 793006 
+Executive Director , NERLDC, Dongteih, Lower Nongrah, Lapalang, Shillong - 793006, Meghalaya  
+5. क र्यक री  दनिेशक , ि .क्षे .भ  .प्रे .के., 29, रेस कोसय क्रॉस रोड, बांगल रु – 560009 
+Executive Director , SRLDC, 29, Race Course Cross Road,  Bangalore -560009  
+ 
+Sub: Daily PSP  Report  for the date 24.04.2020. 
+ 
+महोिर्/Dear Sir,  
+ 
+आई०ई०जी०सी०-2010 की ध र  स.-5.5.1 के प्र वध न के अन स र, दिन ांक 24-अप्रैल-2020 की अखिल 
+भ रतीर् प्रण ली की िैदनक दग्रड दनष्प िन ररपोर्य र ०भ ०प्रे०के० की वेबस इर् पर उप्लब्ध है  |  
+ 
+As per article 5.5.1 of the Indian Electricity Grid Code, the daily report pertaini ng power supply position of All  
+India Power System for the date 24th  Apr 2020, is available at the NLDC website .  
+ 
+ 
+ 
+ 
+धन्यव ि, 
+ 
+ 
+ 
+ 
+ 

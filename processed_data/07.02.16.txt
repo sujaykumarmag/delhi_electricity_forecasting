@@ -1,0 +1,127 @@
+7-Feb-16
+NR WR SR ER NER Total
+38192 41041 34892 16471 2239 132835
+1996 101 450 311 89 2947
+844 978 823 326 39 3010
+103 27 68 20 4 221
+6 28 15 ---------- ---------- 49
+Region <49.2 <49.7 49.7-49.8 49.8-49.9 <49.9 49.9-50.05 > 50.05
+NEW GRID 0.00 0.00 0.00 1.52 1.52 71.48 27.00
+SR GRID 0.00 0.00 0.00 1.52 1.52 71.48 27.00
+Energy Drawal OD(+)/ Max
+Met (MU) Schedule (MU) UD(-) (MU) OD (MW)
+Punjab 5092 0 98.2 49.6 1.4 315
+Haryana 6556 0 123.3 75.4 0.2 277
+Rajasthan 10414 0 220.5 69.6 3.1 352
+Delhi 3462 2 60.1 45.8 0.4 272
+UP 10378 425 232.5 97.1 1.4 378
+Uttarakhand 1904 0 36.1 25.1 1.8 218
+HP 1440 0 26.1 21.9 1.1 121
+J&K 2004 501 43.7 38.0 0.2 110
+Chandigarh 209 0 3.6 3.4 0.3 29
+Chhattisgarh 3507 96 77.3 27.0 -0.9 230
+Gujarat 12822 0 277.8 65.3 2.6 513
+MP 10350 0 202.8 118.6 -1.3 573
+Maharashtra 18576 7 382.2 96.5 -0.8 569
+Goa 433 0 8.2 7.4 0.2 56
+DD 301 0 6.7 6.3 0.3 39
+DNH 704 0 16.4 16.5 -0.1 33
+Essar steel 297 0 6.3 5.1 1.2 95
+Andhra Pradesh 6845 0 142.1 5.3 0.5 761
+Telangana 6214 0 137.8 86.5 3.1 329
+Karnataka 8808 500 192.1 48.0 1.4 437
+Kerala 3324 0 62.7 44.5 1.0 229
+Tamil Nadu 13160 0 281.6 135.4 6.1 698
+Pondy 294 0 6.2 6.2 0.0 33
+Bihar 3342 150 65.9 61.5 1.0 345
+DVC 2735 0 58.0 -21.1 -0.3 385
+Jharkhand 965 0 21.1 11.9 -0.6 135
+Odisha 3376 0 57.8 20.8 -0.3 365
+West Bengal 6766 0 121.7 28.5 0.5 328
+Sikkim 98 0 1.2 1.5 -0.4 20
+Arunachal Pradesh 91 4 1.7 1.5 0.2 36
+Assam 1272 50 22.0 15.7 1.9 208
+Manipur 137 3 2.7 2.7 0.0 20
+Meghalaya 341 1 5.7 5.3 -0.3 19
+Mizoram 90 1 1.5 1.2 0.3 32
+Nagaland 118 2 2.0 1.7 0.2 36
+Tripura 207 3 3.8 0.6 0.9 35
+Bhutan Nepal Bangladesh
+2.0 -4.8 -9.5
+-28.3 -436.0
+NR WR SR ER NER TOTAL
+170.5 -181.4 66.9 -64.4 7.6 -0.8
+177.4 -193.2 74.2 -73.3 10.1 -4.7
+6.9 -11.7 7.3 -8.9 2.5 -3.9
+NR WR SR ER NER Total
+3606 11166 1500 1935 170 18377
+11120 12279 5568 6119 110 35196
+14726 23445 7068 8054 280 53573
+स�चव (ऊजार्)/ �वशेष स�चव (ऊजार्)/अ�त�रक्त  स�चव (ऊजार्)/संयुक्त स�चव (पारेषण) /(ओ एम)/�नदेशक (ओ एम)/मुख्य अ�भयंता -के०�व०प्रा०(�ग्र०प्र०)/
+ महाप्रबंधक  (रा० भा० प्रे० के०) F. Generation Outage(MW)
+Central Sector
+State Sector
+TotalSchedule(MU)
+Actual(MU)
+O/D/U/D(MU)
+अध्य� एवं प्रबंध �नदेशक  (पावर�ग्रड )/मुख्य कायर्पालक  अ�धकार� (पोसोको )/सभी राज्यो के मुख्य स�चव /ऊजार् स�चवSR
+ER
+NER
+E. Import/export By Regions(in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)                                                                                                                                                                                                                   WR
+D. Transnational Exchanges  (MU)  - Import(+ve)/Export(-ve)                                                                                                                                                                                                    
+Actual(MU)
+Max MWB. Frequency Profile (%)
+C.Power Supply Position in States
+RegionRegion StatesMax. Demand 
+Met during the 
+day (MW)
+NRShortage during 
+maximum Demand 
+(MW)Demand Met during Evening Peak hrs(MW)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen(MU)
+Wind Gen(MU)पॉवर �सस्टम ऑपरेशन  कारपोरेशन  �ल�मटेड
+राष्ट्र�य भार प्रेषण क�द्र, नई �दल्ल�
+Report for previous day Date of Reporting
+A. Maximum Demand 
+ 
+National Load Despatch Centre  
+पॉवर िसस्टम ऑपरेशन कारपोरेशन  िलिमटेड  
+POWER SYSTEM OPERATION CORPORATION LIMITED  
+(A wholly owned subsidiary of POWERGRID)  
+B-9, QUTU B INSTITUTIONAL AREA, KATWARIA SARAI,  NEW DELHI -110016  
+______________________________________ _________________________________________________________________________________________________  
+Ref: POSOCO/NLDC/SO/Daily PSP  Report    Date: 07th Feb, 2016  
+ 
+To, 
+ 
+1. महाप्रबंधक , पू. �े. भा. प्रे. के. , 14, गोल्फ क्लब रोड , कोलकाता - 700033 
+General Manager,  ERLDC, 14 Golf Club Road, Tolleygunge, Kolkata, 700033  
+2. Executive Director , ऊ. �े. भा. प्रे. के. , 18/ ए , शह�द जीत �संह सनसनवाल मागर् , नई �दल्ल� – 110016  
+कायर्पालक �नदेशक , NRLDC, 18 -A, Shaheed Jeet Singh Marg, Katwaria Sarai, New Delhi –  110016  
+3. महाप्रबंधक, प. �े. भा. प्रे. के. , एफ-3, एम आई डी सी �ेत्र ,  अंधेर�, मुंबई – 400093 
+General Manager, WRLDC, F- 3, M.I.D.C. Area, Marol, Andheri (East), Mumbai- 400093  
+4. महाप्रबंधक , ऊ. पू. �े. भा. प्रे. के. , ड�ग�तएह, लोअर न�ग्रह , लापलंग, �शल�ग – 793006  
+General  Manager, NERLDC, Dongteih, Lower Nongrah, Lapalang, Shillong -  793006, Meghalaya  
+5. कायर्पालक �नदेशक,  द. �े. भा. प्रे. के. , 29, रेस कोसर् क्रॉस रोड , बंगलुरु – 560009 
+Executive Director, SRLDC, 29, Race Course Cross Road,  Bangalore -560009  
+ 
+Sub: Daily PSP  Report  for the date 06.02.2016.   
+ 
+महोदय/Dear Sir,  
+ 
+आई०ई०जी०सी०-2010 क� धारा स . - 5.5.1 के प्रावधान के अन ुसार, �दनांक 06th Feb 2016 क� अ�खल भारतीय  प्रणाल� 
+क� दै�नक �ग्रड �नष्पादन �रपोटर् रा०भा०प्रे०के० क� वेबसाइट पर �नम्न �लंक पर उप्लब्ध है :-  
+ 
+As per article  5.5.1 of the Indian Electricity Grid Code, the daily report pertaini ng power supply position 
+of All  India Power System for the date  06th Feb 2016 , is available at the NLDC website .  
+ 
+http://posoco.in/attachments/article/94/07 .02.16_NLDC_PSP.pdf  
+  
+ 
+ 
+ 
+ 
+Thank ing You. 
+  

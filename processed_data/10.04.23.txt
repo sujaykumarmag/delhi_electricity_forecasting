@@ -1,0 +1,163 @@
+NR WR SR ER NER TOTAL
+51198 61383 48890 24570 2764 188805
+425 0 0 314 58 797
+1051 1443 1258 545 50 4348
+119 40 71 40 9 279
+22 49 55 - - 125
+127.23 64.71 132.54 3.21 1.24 329
+10.69 0.00 0.00 3.34 1.30 15.33
+52803 65837 61065 24747 2914 194537
+19:37 15:34 11:46 19:43 18:31 10:28
+Region FVI < 49.7 49.7 - 49.8 49.8 - 49.9 < 49.9 49.9 - 50.05 > 50.05
+All India 0.078 0.37 3.77 12.76 16.91 65.27 17.82
+Max.Demand Shortage during Energy Met Drawal OD(+)/UD(-) Max OD Energy
+Region States Met during the 
+day(MW)maximum 
+Demand(MW)(MU)Schedule
+(MU)(MU) (MW)Shortage 
+(MU)
+Punjab 6378 230 137.1 42.7 -1.4 105 0.23
+Haryana 6561 650 125.6 95.3 0.3 216 4.58
+Rajasthan 11865 0 236.5 53.3 -4.8 160 0.60
+Delhi 3812 0 77.5 77.2 -2.1 128 0.00
+NR UP 18977 0 344.9 101.9 -0.2 338 1.47
+Uttarakhand 1967 0 37.0 26.2 -0.1 87 1.34
+HP 1702 0 31.0 18.9 0.3 72 0.38
+J&K(UT) & Ladakh(UT) 2753 0 55.1 46.1 0.1 182 2.09
+Chandigarh 192 0 3.6 3.6 0.0 37 0.00
+Railways_NR ISTS 159 0 3.2 3.1 0.1 18 0.00
+Chhattisgarh 5264 0 120.9 59.9 -0.4 269 0.00
+Gujarat 20600 0 441.2 199.3 0.3 1499 0.00
+MP 11114 0 243.2 136.4 -2.2 495 0.00
+WR Maharashtra 26632 0 563.9 185.5 -0.5 1154 0.00
+Goa 739 0 14.8 14.3 0.0 63 0.00
+DNHDDPDCL 1225 0 28.5 29.0 -0.5 63 0.00
+AMNSIL 813 0 18.4 7.9 0.4 261 0.00
+BALCO 518 0 12.4 12.4 0.0 515 0.00
+Andhra Pradesh 11638 0 232.3 85.0 1.2 864 0.00
+Telangana 13022 0 259.0 132.8 0.9 678 0.00
+SR Karnataka 15263 0 293.4 126.4 -2.2 731 0.00
+Kerala 4435 0 90.2 67.4 -0.4 225 0.00
+Tamil Nadu 17824 0 373.6 229.7 0.9 591 0.00
+Puducherry 441 0 9.9 9.6 -0.5 17 0.00
+Bihar 5724 0 108.9 100.7 -2.9 278 0.04
+DVC 3612 0 77.6 -50.8 0.2 333 0.00
+Jharkhand 1466 91 33.3 23.4 0.9 96 3.29
+ER Odisha 5775 0 113.7 39.8 -1.3 395 0.00
+West Bengal 10139 0 210.4 71.2 -1.9 420 0.00
+Sikkim 91 0 1.4 1.4 0.0 35 0.00
+Arunachal Pradesh 151 0 2.7 2.3 0.3 61 0.00
+Assam 1776 0 31.1 24.6 -0.5 150 0.00
+Manipur 189 0 2.6 2.6 0.0 27 0.00
+NER Meghalaya 296 63 5.0 3.1 0.2 55 1.30
+Mizoram 123 0 1.8 1.6 -0.2 4 0.00
+Nagaland 126 0 2.0 2.1 -0.1 16 0.00
+Tripura 291 0 5.1 5.5 0.7 67 0.00
+Bhutan Nepal Bangladesh
+0.2 -13.3 -24.1
+196.4 -719.9 -1065.0
+NR WR SR ER NER TOTAL
+84.2 -180.7 218.0 -120.8 -0.7 0.0
+69.2 -169.6 223.3 -130.3 0.8 -6.6
+-15.0 11.1 5.3 -9.5 1.5 -6.6
+NR WR SR ER NER TOTAL % Share
+3827 12266 4298 620 534 21544 45
+11685 10036 3531 1020 348 26619 55
+15512 22302 7829 1640 882 48163 100
+NR WR SR ER NER All India % Share
+704 1506 681 739 16 3646 77
+26 17 65 0 0 108 2
+119 40 71 40 9 279 6
+30 35 70 0 0 135 3
+7 17 6 0 30 61 1
+170 115 218 4 1 507 11
+1055 1730 1110 783 56 4735 100
+16.08 6.65 19.61 0.48 2.21 10.72
+30.23 10.97 32.27 5.61 18.10 19.46
+1.066
+1.098Report for previous day Date of Reporting: 11-Apr-2023
+A. Power Supply Position at All India and Regional level
+Demand Met during Evening Peak hrs(MW) (at 20:00 hrs; from RLDCs)
+Peak Shortage (MW)
+Energy Met (MU)
+Hydro Gen (MU)
+Wind Gen (MU)
+Solar Gen (MU)*
+Energy Shortage (MU)
+Maximum Demand Met During the Day (MW) (From NLDC SCADA)
+Time Of Maximum Demand Met (From NLDC SCADA)
+B. Frequency Profile (%)
+C. Power Supply Position in States
+D. Transnational Exchanges (MU) - Import(+ve)/Export(-ve)   
+Godda -> Bangladesh
+Actual (MU) -17.9
+Day Peak (MW) -790.0
+E. Import/Export by Regions (in MU) - Import(+ve)/Export(-ve); OD(+)/UD(-)
+Schedule(MU)
+Actual(MU)
+O/D/U/D(MU)
+F. Generation Outage(MW)
+Central Sector
+State Sector
+Total
+G. Sourcewise generation (Gross) (MU)
+Coal
+Lignite
+Hydro
+Nuclear
+Gas, Naptha & Diesel
+RES (Wind, Solar, Biomass & Others)
+Total
+Share of RES in total generation (%)
+Share of Non-fossil fuel (Hydro,Nuclear and RES) in total generation(%)
+H. All India Demand Diversity Factor
+Based on Regional Max Demands
+Based on State Max Demands
+Diversity factor = Sum of regional or state maximum demands / All India maximum demand
+*Source: RLDCs for solar connected to ISTS; SLDCs for embedded solar. Limited visibility of embedded solar data.
+**Note: All generation MU figures are gross
+***Godda (Jharkhand) -> Bangladesh power exchange is through the radial connection (isolated from Indian Grid)
+Executive Director-NLDC
+ 
+National Load Despatch Centre  
+रा��ीय भार प्रेषण  क� द्र 
+GRID CONTROLLER OF INDIA LIMITED  
+िग्रड कं ट� ो ल र  ऑफ इंिडया  िलिमटेड 
+ (Government of India Enterprise/ भारत  सरकार  का उ�म ) 
+B-9, QUTUB INSTITUTIONAL AREA, KATWARIA SARAI, NEW DELHI - 110016 
+बी-9, क़ुतुब इ�ी�ूशनल  ए�रया,  कटवा�रया सराये , �ू िद�ी- 110016 
+_____________________________________________________________________________________________________  
+ 
+Ref: POSOCO/NLDC/SO/Daily PSP Report        िदनांक : 11th April 2023  
+ 
+To,  
+ 
+ 
+1. काय�कारी  िनदेशक , पू .�े .भा .प्रे .के ., 14, गो�  �ब  रोड , कोलकाता  - 700033  
+Executive Director, ERLDC, 14 Golf Club Road, Tollygunge, Kolkata, 700033  
+2. काय�कारी  िनदेशक , ऊ. �े. भा. प्रे. के., 18/ ए , शहीद  जीत िसंह सनसनवाल  माग�, नई िद�ी  – 110016  
+Executive Director, NRLDC, 18 -A, Shaheed Jeet Singh Marg, Katwaria Sarai, New Delhi –  110016  
+3. काय�कारी  िनदेशक , प .�े .भा .प्रे .के ., एफ -3, एम आई डी सी �ेत्र , अंधेरी , मुंबई  –  400093  
+Executive Director, WRLDC, F- 3, M.I.D.C. Area, Marol, Andheri (East), Mumbai- 400093  
+4. काय�कारी  िनदेशक , ऊ. पू. �े. भा. प्रे. के., डोंगितएह , लोअर  नोंग्रह  , लापलंग , िशलोंग  – 793006  
+Executive Director, NERLDC, Dongteih, Lower Nongrah, Lapalang, Shillong -  793006, Meghalaya  
+5. काय�कारी  िनदेशक  , द .�े .भा .प्रे .के ., 29, रेस कोस�  क्रॉस  रोड, बंगलु�  –  560009  
+Executive Director, SRLDC, 29, Race Course Cross Road, Bangalore -560009 
+ 
+Sub: Daily PSP Report for the date 10 .04.2023.  
+ 
+महोदय /Dear Sir,  
+ 
+आई०ई०जी०सी०-2010 की धारा स.-5.5.1 के प्रावधान  के अनुसार , िदनांक  10-अप्रैल-2023  की अ�खल  भारतीय  प्रणाली  की 
+दैिनक  िग्रड िन�ादन  �रपोट�  रा०भा०प्रे०के० की वेबसाइट  पर उ��  है |  
+ 
+As per article 5.5.1 of the Indian Electricity Grid Code, the daily report pertaining power supply position of All 
+India Power System for the date 10th April 2023, is available at the NLDC website.  
+ 
+ 
+ 
+ 
+ 
+ध�वाद , 
+ 
+ 
